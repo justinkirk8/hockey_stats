@@ -1,0 +1,1600 @@
+Index_ID,Team,Season,Conference,Division,GP,W,L,QTL,Pts,GF,GA,Diff
+0,Montréal Canadiens,19171918,,,22,13,9,0,26,116,84,32
+1,Toronto Arenas,19171918,,,22,13,9,0,26,109,109,0
+2,Ottawa Senators (1917),19171918,,,22,9,13,0,18,102,114,-12
+3,Montreal Wanderers,19171918,,,6,1,5,0,2,17,37,-20
+4,Ottawa Senators (1917),19181919,,,18,12,6,0,24,71,53,18
+5,Montréal Canadiens,19181919,,,18,10,8,0,20,88,78,10
+6,Toronto Arenas,19181919,,,18,5,13,0,10,64,92,-28
+7,Ottawa Senators (1917),19191920,,,24,19,5,0,38,121,64,57
+8,Montréal Canadiens,19191920,,,24,13,11,0,26,129,113,16
+9,Toronto St. Patricks,19191920,,,24,12,12,0,24,119,106,13
+10,Quebec Bulldogs,19191920,,,24,4,20,0,8,91,177,-86
+11,Toronto St. Patricks,19201921,,,24,15,9,0,30,105,100,5
+12,Ottawa Senators (1917),19201921,,,24,14,10,0,28,97,75,22
+13,Montréal Canadiens,19201921,,,24,13,11,0,26,112,99,13
+14,Hamilton Tigers,19201921,,,24,6,18,0,12,92,132,-40
+15,Ottawa Senators (1917),19211922,,,24,14,8,0,30,106,84,22
+16,Toronto St. Patricks,19211922,,,24,13,10,0,27,98,97,1
+17,Montréal Canadiens,19211922,,,24,12,11,0,25,88,94,-6
+18,Hamilton Tigers,19211922,,,24,7,17,0,14,88,105,-17
+19,Ottawa Senators (1917),19221923,,,24,14,9,0,29,77,54,23
+20,Montréal Canadiens,19221923,,,24,13,9,0,28,73,61,12
+21,Toronto St. Patricks,19221923,,,24,13,10,0,27,82,88,-6
+22,Hamilton Tigers,19221923,,,24,6,18,0,12,81,110,-29
+23,Ottawa Senators (1917),19231924,,,24,16,8,0,32,74,54,20
+24,Montréal Canadiens,19231924,,,24,13,11,0,26,59,48,11
+25,Toronto St. Patricks,19231924,,,24,10,14,0,20,59,85,-26
+26,Hamilton Tigers,19231924,,,24,9,15,0,18,63,68,-5
+27,Hamilton Tigers,19241925,,,30,19,10,0,39,90,60,30
+28,Toronto St. Patricks,19241925,,,30,19,11,0,38,90,84,6
+29,Montréal Canadiens,19241925,,,30,17,11,0,36,93,56,37
+30,Ottawa Senators (1917),19241925,,,30,17,12,0,35,83,66,17
+31,Montreal Maroons,19241925,,,30,9,19,0,20,45,65,-20
+32,Boston Bruins,19241925,,,30,6,24,0,12,49,119,-70
+33,Ottawa Senators (1917),19251926,,,36,24,8,0,52,77,42,35
+34,Montreal Maroons,19251926,,,36,20,11,0,45,91,73,18
+35,Pittsburgh Pirates,19251926,,,36,19,16,0,39,82,70,12
+36,Boston Bruins,19251926,,,36,17,15,0,38,92,85,7
+37,New York Americans,19251926,,,36,12,20,0,28,68,89,-21
+38,Toronto St. Patricks,19251926,,,36,12,21,0,27,92,114,-22
+39,Montréal Canadiens,19251926,,,36,11,24,0,23,79,108,-29
+40,Ottawa Senators (1917),19261927,,Canadian,44,30,10,0,64,86,69,17
+41,Montréal Canadiens,19261927,,Canadian,44,28,14,0,58,99,67,32
+42,Montreal Maroons,19261927,,Canadian,44,20,20,0,44,71,68,3
+43,New York Americans,19261927,,Canadian,44,17,25,0,36,82,91,-9
+44,Toronto St. Patricks,19261927,,Canadian,44,15,24,0,35,79,94,-15
+45,New York Rangers,19261927,,American,44,25,13,0,56,95,72,23
+46,Boston Bruins,19261927,,American,44,21,20,0,45,97,89,8
+47,Chicago Blackhawks,19261927,,American,44,19,22,0,41,115,116,-1
+48,Pittsburgh Pirates,19261927,,American,44,15,26,0,33,79,108,-29
+49,Detroit Cougars,19261927,,American,44,12,28,0,28,76,105,-29
+50,Montréal Canadiens,19271928,,Canadian,44,26,11,0,59,116,48,68
+51,Montreal Maroons,19271928,,Canadian,44,24,14,0,54,96,77,19
+52,Ottawa Senators (1917),19271928,,Canadian,44,20,14,0,50,78,57,21
+53,Toronto Maple Leafs,19271928,,Canadian,44,18,18,0,44,89,88,1
+54,New York Americans,19271928,,Canadian,44,11,27,0,28,63,128,-65
+55,Boston Bruins,19271928,,American,44,20,13,0,51,77,70,7
+56,New York Rangers,19271928,,American,44,19,16,0,47,94,79,15
+57,Pittsburgh Pirates,19271928,,American,44,19,17,0,46,67,76,-9
+58,Detroit Cougars,19271928,,American,44,19,19,0,44,88,79,9
+59,Chicago Blackhawks,19271928,,American,44,7,34,0,17,68,134,-66
+60,Montréal Canadiens,19281929,,Canadian,44,22,7,0,59,71,43,28
+61,New York Americans,19281929,,Canadian,44,19,13,0,50,53,53,0
+62,Toronto Maple Leafs,19281929,,Canadian,44,21,18,0,47,85,69,16
+63,Ottawa Senators (1917),19281929,,Canadian,44,14,17,0,41,54,67,-13
+64,Montreal Maroons,19281929,,Canadian,44,15,20,0,39,67,65,2
+65,Boston Bruins,19281929,,American,44,26,13,0,57,89,52,37
+66,New York Rangers,19281929,,American,44,21,13,0,52,72,65,7
+67,Detroit Cougars,19281929,,American,44,19,16,0,47,72,63,9
+68,Pittsburgh Pirates,19281929,,American,44,9,27,0,26,46,80,-34
+69,Chicago Blackhawks,19281929,,American,44,7,29,0,22,33,85,-52
+70,Boston Bruins,19291930,,American,44,38,5,0,77,179,98,81
+71,Chicago Blackhawks,19291930,,American,44,21,18,0,47,117,111,6
+72,New York Rangers,19291930,,American,44,17,17,0,44,136,143,-7
+73,Detroit Cougars,19291930,,American,44,14,24,0,34,117,133,-16
+74,Pittsburgh Pirates,19291930,,American,44,5,36,0,13,102,185,-83
+75,Montreal Maroons,19291930,,Canadian,44,23,16,0,51,141,114,27
+76,Montréal Canadiens,19291930,,Canadian,44,21,14,0,51,142,114,28
+77,Ottawa Senators (1917),19291930,,Canadian,44,21,15,0,50,138,118,20
+78,Toronto Maple Leafs,19291930,,Canadian,44,17,21,0,40,116,124,-8
+79,New York Americans,19291930,,Canadian,44,14,25,0,33,113,161,-48
+80,Boston Bruins,19301931,,American,44,28,10,0,62,143,90,53
+81,Chicago Blackhawks,19301931,,American,44,24,17,0,51,108,78,30
+82,New York Rangers,19301931,,American,44,19,16,0,47,106,87,19
+83,Detroit Falcons,19301931,,American,44,16,21,0,39,102,105,-3
+84,Philadelphia Quakers,19301931,,American,44,4,36,0,12,76,184,-108
+85,Montréal Canadiens,19301931,,Canadian,44,26,10,0,60,129,89,40
+86,Toronto Maple Leafs,19301931,,Canadian,44,22,13,0,53,118,99,19
+87,Montreal Maroons,19301931,,Canadian,44,20,18,0,46,105,106,-1
+88,New York Americans,19301931,,Canadian,44,18,16,0,46,76,74,2
+89,Ottawa Senators (1917),19301931,,Canadian,44,10,30,0,24,91,142,-51
+90,Montréal Canadiens,19311932,,Canadian,48,25,16,0,57,128,111,17
+91,Toronto Maple Leafs,19311932,,Canadian,48,23,18,0,53,155,127,28
+92,Montreal Maroons,19311932,,Canadian,48,19,22,0,45,142,139,3
+93,New York Americans,19311932,,Canadian,48,16,24,0,40,95,142,-47
+94,New York Rangers,19311932,,American,48,23,17,0,54,134,112,22
+95,Chicago Blackhawks,19311932,,American,48,18,19,0,47,86,101,-15
+96,Detroit Falcons,19311932,,American,48,18,20,0,46,95,108,-13
+97,Boston Bruins,19311932,,American,48,15,21,0,42,122,117,5
+98,Boston Bruins,19321933,,American,48,25,15,0,58,124,88,36
+99,Detroit Red Wings,19321933,,American,48,25,15,0,58,111,93,18
+100,New York Rangers,19321933,,American,48,23,17,0,54,135,107,28
+101,Chicago Blackhawks,19321933,,American,48,16,20,0,44,88,101,-13
+102,Toronto Maple Leafs,19321933,,Canadian,48,24,18,0,54,119,111,8
+103,Montreal Maroons,19321933,,Canadian,48,22,20,0,50,135,119,16
+104,Montréal Canadiens,19321933,,Canadian,48,18,25,0,41,92,115,-23
+105,New York Americans,19321933,,Canadian,48,15,22,0,41,91,118,-27
+106,Ottawa Senators (1917),19321933,,Canadian,48,11,27,0,32,88,131,-43
+107,Toronto Maple Leafs,19331934,,Canadian,48,26,13,0,61,174,119,55
+108,Montréal Canadiens,19331934,,Canadian,48,22,20,0,50,99,101,-2
+109,Montreal Maroons,19331934,,Canadian,48,19,18,0,49,117,122,-5
+110,New York Americans,19331934,,Canadian,48,15,23,0,40,104,132,-28
+111,Ottawa Senators (1917),19331934,,Canadian,48,13,29,0,32,115,143,-28
+112,Detroit Red Wings,19331934,,American,48,24,14,0,58,113,98,15
+113,Chicago Blackhawks,19331934,,American,48,20,17,0,51,88,83,5
+114,New York Rangers,19331934,,American,48,21,19,0,50,120,113,7
+115,Boston Bruins,19331934,,American,48,18,25,0,41,111,130,-19
+116,Toronto Maple Leafs,19341935,,Canadian,48,30,14,0,64,157,111,46
+117,Montreal Maroons,19341935,,Canadian,48,24,19,0,53,123,92,31
+118,Montréal Canadiens,19341935,,Canadian,48,19,23,0,44,110,145,-35
+119,New York Americans,19341935,,Canadian,48,12,27,0,33,100,142,-42
+120,St. Louis Eagles,19341935,,Canadian,48,11,31,0,28,86,144,-58
+121,Boston Bruins,19341935,,American,48,26,16,0,58,129,112,17
+122,Chicago Blackhawks,19341935,,American,48,26,17,0,57,118,88,30
+123,New York Rangers,19341935,,American,48,22,20,0,50,137,139,-2
+124,Detroit Red Wings,19341935,,American,48,19,22,0,45,127,114,13
+125,Detroit Red Wings,19351936,,American,48,24,16,0,56,124,103,21
+126,Boston Bruins,19351936,,American,48,22,20,0,50,92,83,9
+127,Chicago Blackhawks,19351936,,American,48,21,19,0,50,93,92,1
+128,New York Rangers,19351936,,American,48,19,17,0,50,91,96,-5
+129,Montreal Maroons,19351936,,Canadian,48,22,16,0,54,114,106,8
+130,Toronto Maple Leafs,19351936,,Canadian,48,23,19,0,52,126,106,20
+131,New York Americans,19351936,,Canadian,48,16,25,0,39,109,122,-13
+132,Montréal Canadiens,19351936,,Canadian,48,11,26,0,33,82,123,-41
+133,Detroit Red Wings,19361937,,American,48,25,14,0,59,128,102,26
+134,Boston Bruins,19361937,,American,48,23,18,0,53,120,110,10
+135,New York Rangers,19361937,,American,48,19,20,0,47,117,106,11
+136,Chicago Blackhawks,19361937,,American,48,14,27,0,35,99,131,-32
+137,Montréal Canadiens,19361937,,Canadian,48,24,18,0,54,115,111,4
+138,Montreal Maroons,19361937,,Canadian,48,22,17,0,53,126,110,16
+139,Toronto Maple Leafs,19361937,,Canadian,48,22,21,0,49,119,115,4
+140,New York Americans,19361937,,Canadian,48,15,29,0,34,122,161,-39
+141,Boston Bruins,19371938,,American,48,30,11,0,67,142,89,53
+142,New York Rangers,19371938,,American,48,27,15,0,60,149,96,53
+143,Chicago Blackhawks,19371938,,American,48,14,25,0,37,97,139,-42
+144,Detroit Red Wings,19371938,,American,48,12,25,0,35,99,133,-34
+145,Toronto Maple Leafs,19371938,,Canadian,48,24,15,0,57,151,127,24
+146,New York Americans,19371938,,Canadian,48,19,18,0,49,110,111,-1
+147,Montréal Canadiens,19371938,,Canadian,48,18,17,0,49,123,128,-5
+148,Montreal Maroons,19371938,,Canadian,48,12,30,0,30,101,149,-48
+149,Boston Bruins,19381939,,,48,36,10,0,74,156,76,80
+150,New York Rangers,19381939,,,48,26,16,0,58,149,105,44
+151,Toronto Maple Leafs,19381939,,,48,19,20,0,47,114,107,7
+152,New York Americans,19381939,,,48,17,21,0,44,119,157,-38
+153,Detroit Red Wings,19381939,,,48,18,24,0,42,107,128,-21
+154,Montréal Canadiens,19381939,,,48,15,24,0,39,115,146,-31
+155,Chicago Blackhawks,19381939,,,48,12,28,0,32,91,132,-41
+156,Boston Bruins,19391940,,,48,31,12,0,67,170,98,72
+157,New York Rangers,19391940,,,48,27,11,0,64,136,77,59
+158,Toronto Maple Leafs,19391940,,,48,25,17,0,56,134,110,24
+159,Chicago Blackhawks,19391940,,,48,23,19,0,52,112,120,-8
+160,Detroit Red Wings,19391940,,,48,16,26,0,38,90,126,-36
+161,New York Americans,19391940,,,48,15,29,0,34,106,140,-34
+162,Montréal Canadiens,19391940,,,48,10,33,0,25,90,167,-77
+163,Boston Bruins,19401941,,,48,27,8,0,67,168,102,66
+164,Toronto Maple Leafs,19401941,,,48,28,14,0,62,145,99,46
+165,Detroit Red Wings,19401941,,,48,21,16,0,53,112,102,10
+166,New York Rangers,19401941,,,48,21,19,0,50,143,125,18
+167,Chicago Blackhawks,19401941,,,48,16,25,0,39,112,139,-27
+168,Montréal Canadiens,19401941,,,48,16,26,0,38,121,147,-26
+169,New York Americans,19401941,,,48,8,29,0,27,99,186,-87
+170,New York Rangers,19411942,,,48,29,17,0,60,177,143,34
+171,Toronto Maple Leafs,19411942,,,48,27,18,0,57,158,136,22
+172,Boston Bruins,19411942,,,48,25,17,0,56,160,118,42
+173,Chicago Blackhawks,19411942,,,48,22,23,0,47,145,155,-10
+174,Detroit Red Wings,19411942,,,48,19,25,0,42,140,147,-7
+175,Montréal Canadiens,19411942,,,48,18,27,0,39,134,173,-39
+176,Brooklyn Americans,19411942,,,48,16,29,0,35,133,175,-42
+177,Detroit Red Wings,19421943,,,50,25,14,0,61,169,124,45
+178,Boston Bruins,19421943,,,50,24,17,0,57,195,176,19
+179,Toronto Maple Leafs,19421943,,,50,22,19,0,53,198,159,39
+180,Montréal Canadiens,19421943,,,50,19,19,0,50,181,191,-10
+181,Chicago Blackhawks,19421943,,,50,17,18,0,49,179,180,-1
+182,New York Rangers,19421943,,,50,11,31,0,30,161,253,-92
+183,Montréal Canadiens,19431944,,,50,38,5,0,83,234,109,125
+184,Detroit Red Wings,19431944,,,50,26,18,0,58,214,177,37
+185,Toronto Maple Leafs,19431944,,,50,23,23,0,50,214,174,40
+186,Chicago Blackhawks,19431944,,,50,22,23,0,49,178,187,-9
+187,Boston Bruins,19431944,,,50,19,26,0,43,223,268,-45
+188,New York Rangers,19431944,,,50,6,39,0,17,162,310,-148
+189,Montréal Canadiens,19441945,,,50,38,8,0,80,228,121,107
+190,Detroit Red Wings,19441945,,,50,31,14,0,67,218,161,57
+191,Toronto Maple Leafs,19441945,,,50,24,22,0,52,183,161,22
+192,Boston Bruins,19441945,,,50,16,30,0,36,179,219,-40
+193,Chicago Blackhawks,19441945,,,50,13,30,0,33,141,194,-53
+194,New York Rangers,19441945,,,50,11,29,0,32,154,247,-93
+195,Montréal Canadiens,19451946,,,50,28,17,0,61,172,134,38
+196,Boston Bruins,19451946,,,50,24,18,0,56,167,156,11
+197,Chicago Blackhawks,19451946,,,50,23,20,0,53,200,178,22
+198,Detroit Red Wings,19451946,,,50,20,20,0,50,146,159,-13
+199,Toronto Maple Leafs,19451946,,,50,19,24,0,45,174,185,-11
+200,New York Rangers,19451946,,,50,13,28,0,35,144,191,-47
+201,Montréal Canadiens,19461947,,,60,34,16,0,78,189,138,51
+202,Toronto Maple Leafs,19461947,,,60,31,19,0,72,209,172,37
+203,Boston Bruins,19461947,,,60,26,23,0,63,190,175,15
+204,Detroit Red Wings,19461947,,,60,22,27,0,55,190,193,-3
+205,New York Rangers,19461947,,,60,22,32,0,50,167,186,-19
+206,Chicago Blackhawks,19461947,,,60,19,37,0,42,193,274,-81
+207,Toronto Maple Leafs,19471948,,,60,32,15,0,77,182,143,39
+208,Detroit Red Wings,19471948,,,60,30,18,0,72,187,148,39
+209,Boston Bruins,19471948,,,60,23,24,0,59,167,168,-1
+210,New York Rangers,19471948,,,60,21,26,0,55,176,201,-25
+211,Montréal Canadiens,19471948,,,60,20,29,0,51,147,169,-22
+212,Chicago Blackhawks,19471948,,,60,20,34,0,46,195,225,-30
+213,Detroit Red Wings,19481949,,,60,34,19,0,75,195,145,50
+214,Boston Bruins,19481949,,,60,29,23,0,66,178,163,15
+215,Montréal Canadiens,19481949,,,60,28,23,0,65,152,126,26
+216,Toronto Maple Leafs,19481949,,,60,22,25,0,57,147,161,-14
+217,Chicago Blackhawks,19481949,,,60,21,31,0,50,173,211,-38
+218,New York Rangers,19481949,,,60,18,31,0,47,133,172,-39
+219,Detroit Red Wings,19491950,,,70,37,19,0,88,229,164,65
+220,Montréal Canadiens,19491950,,,70,29,22,0,77,172,150,22
+221,Toronto Maple Leafs,19491950,,,70,31,27,0,74,176,173,3
+222,New York Rangers,19491950,,,70,28,31,0,67,170,189,-19
+223,Boston Bruins,19491950,,,70,22,32,0,60,198,228,-30
+224,Chicago Blackhawks,19491950,,,70,22,38,0,54,203,244,-41
+225,Detroit Red Wings,19501951,,,70,44,13,0,101,236,139,97
+226,Toronto Maple Leafs,19501951,,,70,41,16,0,95,212,138,74
+227,Montréal Canadiens,19501951,,,70,25,30,0,65,173,184,-11
+228,Boston Bruins,19501951,,,70,22,30,0,62,178,197,-19
+229,New York Rangers,19501951,,,70,20,29,0,61,169,201,-32
+230,Chicago Blackhawks,19501951,,,70,13,47,0,36,171,280,-109
+231,Detroit Red Wings,19511952,,,70,44,14,0,100,215,133,82
+232,Montréal Canadiens,19511952,,,70,34,26,0,78,195,164,31
+233,Toronto Maple Leafs,19511952,,,70,29,25,0,74,168,157,11
+234,Boston Bruins,19511952,,,70,25,29,0,66,162,176,-14
+235,New York Rangers,19511952,,,70,23,34,0,59,192,219,-27
+236,Chicago Blackhawks,19511952,,,70,17,44,0,43,158,241,-83
+237,Detroit Red Wings,19521953,,,70,36,16,0,90,222,133,89
+238,Montréal Canadiens,19521953,,,70,28,23,0,75,155,148,7
+239,Boston Bruins,19521953,,,70,28,29,0,69,152,172,-20
+240,Chicago Blackhawks,19521953,,,70,27,28,0,69,169,175,-6
+241,Toronto Maple Leafs,19521953,,,70,27,30,0,67,156,167,-11
+242,New York Rangers,19521953,,,70,17,37,0,50,152,211,-59
+243,Detroit Red Wings,19531954,,,70,37,19,0,88,191,132,59
+244,Montréal Canadiens,19531954,,,70,35,24,0,81,195,141,54
+245,Toronto Maple Leafs,19531954,,,70,32,24,0,78,152,131,21
+246,Boston Bruins,19531954,,,70,32,28,0,74,177,181,-4
+247,New York Rangers,19531954,,,70,29,31,0,68,161,182,-21
+248,Chicago Blackhawks,19531954,,,70,12,51,0,31,133,242,-109
+249,Detroit Red Wings,19541955,,,70,42,17,0,95,204,134,70
+250,Montréal Canadiens,19541955,,,70,41,18,0,93,228,157,71
+251,Toronto Maple Leafs,19541955,,,70,24,24,0,70,147,135,12
+252,Boston Bruins,19541955,,,70,23,26,0,67,169,188,-19
+253,New York Rangers,19541955,,,70,17,35,0,52,150,210,-60
+254,Chicago Blackhawks,19541955,,,70,13,40,0,43,161,235,-74
+255,Montréal Canadiens,19551956,,,70,45,15,0,100,222,131,91
+256,Detroit Red Wings,19551956,,,70,30,24,0,76,183,148,35
+257,New York Rangers,19551956,,,70,32,28,0,74,204,203,1
+258,Toronto Maple Leafs,19551956,,,70,24,33,0,61,153,181,-28
+259,Boston Bruins,19551956,,,70,23,34,0,59,147,185,-38
+260,Chicago Blackhawks,19551956,,,70,19,39,0,50,155,216,-61
+261,Detroit Red Wings,19561957,,,70,38,20,0,88,198,157,41
+262,Montréal Canadiens,19561957,,,70,35,23,0,82,210,155,55
+263,Boston Bruins,19561957,,,70,34,24,0,80,195,174,21
+264,New York Rangers,19561957,,,70,26,30,0,66,184,227,-43
+265,Toronto Maple Leafs,19561957,,,70,21,34,0,57,174,192,-18
+266,Chicago Blackhawks,19561957,,,70,16,39,0,47,169,225,-56
+267,Montréal Canadiens,19571958,,,70,43,17,0,96,250,158,92
+268,New York Rangers,19571958,,,70,32,25,0,77,195,188,7
+269,Detroit Red Wings,19571958,,,70,29,29,0,70,176,207,-31
+270,Boston Bruins,19571958,,,70,27,28,0,69,199,194,5
+271,Chicago Blackhawks,19571958,,,70,24,39,0,55,163,202,-39
+272,Toronto Maple Leafs,19571958,,,70,21,38,0,53,192,226,-34
+273,Montréal Canadiens,19581959,,,70,39,18,0,91,258,158,100
+274,Boston Bruins,19581959,,,70,32,29,0,73,205,215,-10
+275,Chicago Blackhawks,19581959,,,70,28,29,0,69,197,208,-11
+276,Toronto Maple Leafs,19581959,,,70,27,32,0,65,189,201,-12
+277,New York Rangers,19581959,,,70,26,32,0,64,201,217,-16
+278,Detroit Red Wings,19581959,,,70,25,37,0,58,167,218,-51
+279,Montréal Canadiens,19591960,,,70,40,18,0,92,255,178,77
+280,Toronto Maple Leafs,19591960,,,70,35,26,0,79,199,195,4
+281,Chicago Blackhawks,19591960,,,70,28,29,0,69,191,180,11
+282,Detroit Red Wings,19591960,,,70,26,29,0,67,186,197,-11
+283,Boston Bruins,19591960,,,70,28,34,0,64,220,241,-21
+284,New York Rangers,19591960,,,70,17,38,0,49,187,247,-60
+285,Montréal Canadiens,19601961,,,70,41,19,0,92,254,188,66
+286,Toronto Maple Leafs,19601961,,,70,39,19,0,90,234,176,58
+287,Chicago Blackhawks,19601961,,,70,29,24,0,75,198,180,18
+288,Detroit Red Wings,19601961,,,70,25,29,0,66,195,215,-20
+289,New York Rangers,19601961,,,70,22,38,0,54,204,248,-44
+290,Boston Bruins,19601961,,,70,15,42,0,43,176,254,-78
+291,Montréal Canadiens,19611962,,,70,42,14,0,98,259,166,93
+292,Toronto Maple Leafs,19611962,,,70,37,22,0,85,232,180,52
+293,Chicago Blackhawks,19611962,,,70,31,26,0,75,217,186,31
+294,New York Rangers,19611962,,,70,26,32,0,64,195,207,-12
+295,Detroit Red Wings,19611962,,,70,23,33,0,60,184,219,-35
+296,Boston Bruins,19611962,,,70,15,47,0,38,177,306,-129
+297,Toronto Maple Leafs,19621963,,,70,35,23,0,82,221,180,41
+298,Chicago Blackhawks,19621963,,,70,32,21,0,81,194,178,16
+299,Montréal Canadiens,19621963,,,70,28,19,0,79,225,183,42
+300,Detroit Red Wings,19621963,,,70,32,25,0,77,200,194,6
+301,New York Rangers,19621963,,,70,22,36,0,56,211,233,-22
+302,Boston Bruins,19621963,,,70,14,39,0,45,198,281,-83
+303,Montréal Canadiens,19631964,,,70,36,21,0,85,209,167,42
+304,Chicago Blackhawks,19631964,,,70,36,22,0,84,218,169,49
+305,Toronto Maple Leafs,19631964,,,70,33,25,0,78,192,172,20
+306,Detroit Red Wings,19631964,,,70,30,29,0,71,191,204,-13
+307,New York Rangers,19631964,,,70,22,38,0,54,186,242,-56
+308,Boston Bruins,19631964,,,70,18,40,0,48,170,212,-42
+309,Detroit Red Wings,19641965,,,70,40,23,0,87,224,175,49
+310,Montréal Canadiens,19641965,,,70,36,23,0,83,211,185,26
+311,Chicago Blackhawks,19641965,,,70,34,28,0,76,224,176,48
+312,Toronto Maple Leafs,19641965,,,70,30,26,0,74,204,173,31
+313,New York Rangers,19641965,,,70,20,38,0,52,179,246,-67
+314,Boston Bruins,19641965,,,70,21,43,0,48,166,253,-87
+315,Montréal Canadiens,19651966,,,70,41,21,0,90,239,173,66
+316,Chicago Blackhawks,19651966,,,70,37,25,0,82,240,187,53
+317,Toronto Maple Leafs,19651966,,,70,34,25,0,79,208,187,21
+318,Detroit Red Wings,19651966,,,70,31,27,0,74,221,194,27
+319,Boston Bruins,19651966,,,70,21,43,0,48,174,275,-101
+320,New York Rangers,19651966,,,70,18,41,0,47,195,261,-66
+321,Chicago Blackhawks,19661967,,,70,41,17,0,94,264,170,94
+322,Montréal Canadiens,19661967,,,70,32,25,0,77,202,188,14
+323,Toronto Maple Leafs,19661967,,,70,32,27,0,75,204,211,-7
+324,New York Rangers,19661967,,,70,30,28,0,72,188,189,-1
+325,Detroit Red Wings,19661967,,,70,27,39,0,58,212,241,-29
+326,Boston Bruins,19661967,,,70,17,43,0,44,182,253,-71
+327,Montréal Canadiens,19671968,,East,74,42,22,0,94,236,167,69
+328,New York Rangers,19671968,,East,74,39,23,0,90,226,183,43
+329,Boston Bruins,19671968,,East,74,37,27,0,84,259,216,43
+330,Chicago Blackhawks,19671968,,East,74,32,26,0,80,212,222,-10
+331,Toronto Maple Leafs,19671968,,East,74,33,31,0,76,209,176,33
+332,Detroit Red Wings,19671968,,East,74,27,35,0,66,245,257,-12
+333,Philadelphia Flyers,19671968,,West,74,31,32,0,73,173,179,-6
+334,Los Angeles Kings,19671968,,West,74,31,33,0,72,200,224,-24
+335,St. Louis Blues,19671968,,West,74,27,31,0,70,177,191,-14
+336,Minnesota North Stars,19671968,,West,74,27,32,0,69,191,226,-35
+337,Pittsburgh Penguins,19671968,,West,74,27,34,0,67,195,216,-21
+338,Oakland Seals,19671968,,West,74,15,42,0,47,153,219,-66
+339,Montréal Canadiens,19681969,,East,76,46,19,0,103,271,202,69
+340,Boston Bruins,19681969,,East,76,42,18,0,100,303,221,82
+341,New York Rangers,19681969,,East,76,41,26,0,91,231,196,35
+342,Toronto Maple Leafs,19681969,,East,76,35,26,0,85,234,217,17
+343,Detroit Red Wings,19681969,,East,76,33,31,0,78,239,221,18
+344,Chicago Blackhawks,19681969,,East,76,34,33,0,77,280,246,34
+345,St. Louis Blues,19681969,,West,76,37,25,0,88,204,157,47
+346,Oakland Seals,19681969,,West,76,29,36,0,69,219,251,-32
+347,Philadelphia Flyers,19681969,,West,76,20,35,0,61,174,225,-51
+348,Los Angeles Kings,19681969,,West,76,24,42,0,58,185,260,-75
+349,Pittsburgh Penguins,19681969,,West,76,20,45,0,51,189,252,-63
+350,Minnesota North Stars,19681969,,West,76,18,43,0,51,189,270,-81
+351,Chicago Blackhawks,19691970,,East,76,45,22,0,99,250,170,80
+352,Boston Bruins,19691970,,East,76,40,17,0,99,277,216,61
+353,Detroit Red Wings,19691970,,East,76,40,21,0,95,246,199,47
+354,New York Rangers,19691970,,East,76,38,22,0,92,246,189,57
+355,Montréal Canadiens,19691970,,East,76,38,22,0,92,244,201,43
+356,Toronto Maple Leafs,19691970,,East,76,29,34,0,71,222,242,-20
+357,St. Louis Blues,19691970,,West,76,37,27,0,86,224,179,45
+358,Pittsburgh Penguins,19691970,,West,76,26,38,0,64,182,238,-56
+359,Minnesota North Stars,19691970,,West,76,19,35,0,60,224,257,-33
+360,Oakland Seals,19691970,,West,76,22,40,0,58,169,243,-74
+361,Philadelphia Flyers,19691970,,West,76,17,35,0,58,197,225,-28
+362,Los Angeles Kings,19691970,,West,76,14,52,0,38,168,290,-122
+363,Boston Bruins,19701971,,East,78,57,14,0,121,399,207,192
+364,New York Rangers,19701971,,East,78,49,18,0,109,259,177,82
+365,Montréal Canadiens,19701971,,East,78,42,23,0,97,291,216,75
+366,Toronto Maple Leafs,19701971,,East,78,37,33,0,82,248,211,37
+367,Buffalo Sabres,19701971,,East,78,24,39,0,63,217,291,-74
+368,Vancouver Canucks,19701971,,East,78,24,46,0,56,229,296,-67
+369,Detroit Red Wings,19701971,,East,78,22,45,0,55,209,308,-99
+370,Chicago Blackhawks,19701971,,West,78,49,20,0,107,277,184,93
+371,St. Louis Blues,19701971,,West,78,34,25,0,87,223,208,15
+372,Philadelphia Flyers,19701971,,West,78,28,33,0,73,207,225,-18
+373,Minnesota North Stars,19701971,,West,78,28,34,0,72,191,223,-32
+374,Los Angeles Kings,19701971,,West,78,25,40,0,63,239,303,-64
+375,Pittsburgh Penguins,19701971,,West,78,21,37,0,62,221,240,-19
+376,California Golden Seals,19701971,,West,78,20,53,0,45,199,320,-121
+377,Boston Bruins,19711972,,East,78,54,13,0,119,330,204,126
+378,New York Rangers,19711972,,East,78,48,17,0,109,317,192,125
+379,Montréal Canadiens,19711972,,East,78,46,16,0,108,307,205,102
+380,Toronto Maple Leafs,19711972,,East,78,33,31,0,80,209,208,1
+381,Detroit Red Wings,19711972,,East,78,33,35,0,76,261,262,-1
+382,Buffalo Sabres,19711972,,East,78,16,43,0,51,203,289,-86
+383,Vancouver Canucks,19711972,,East,78,20,50,0,48,203,297,-94
+384,Chicago Blackhawks,19711972,,West,78,46,17,0,107,256,166,90
+385,Minnesota North Stars,19711972,,West,78,37,29,0,86,212,191,21
+386,St. Louis Blues,19711972,,West,78,28,39,0,67,208,247,-39
+387,Pittsburgh Penguins,19711972,,West,78,26,38,0,66,220,258,-38
+388,Philadelphia Flyers,19711972,,West,78,26,38,0,66,200,236,-36
+389,California Golden Seals,19711972,,West,78,21,39,0,60,216,288,-72
+390,Los Angeles Kings,19711972,,West,78,20,49,0,49,206,305,-99
+391,Montréal Canadiens,19721973,,East,78,52,10,0,120,329,184,145
+392,Boston Bruins,19721973,,East,78,51,22,0,107,330,235,95
+393,New York Rangers,19721973,,East,78,47,23,0,102,297,208,89
+394,Buffalo Sabres,19721973,,East,78,37,27,0,88,257,219,38
+395,Detroit Red Wings,19721973,,East,78,37,29,0,86,265,243,22
+396,Toronto Maple Leafs,19721973,,East,78,27,41,0,64,247,279,-32
+397,Vancouver Canucks,19721973,,East,78,22,47,0,53,233,339,-106
+398,New York Islanders,19721973,,East,78,12,60,0,30,170,347,-177
+399,Chicago Blackhawks,19721973,,West,78,42,27,0,93,284,225,59
+400,Philadelphia Flyers,19721973,,West,78,37,30,0,85,296,256,40
+401,Minnesota North Stars,19721973,,West,78,37,30,0,85,254,230,24
+402,St. Louis Blues,19721973,,West,78,32,34,0,76,233,251,-18
+403,Pittsburgh Penguins,19721973,,West,78,32,37,0,73,257,265,-8
+404,Los Angeles Kings,19721973,,West,78,31,36,0,73,232,245,-13
+405,Atlanta Flames,19721973,,West,78,25,38,0,65,191,239,-48
+406,California Golden Seals,19721973,,West,78,16,46,0,48,213,323,-110
+407,Boston Bruins,19731974,,East,78,52,17,0,113,349,221,128
+408,Montréal Canadiens,19731974,,East,78,45,24,0,99,293,240,53
+409,New York Rangers,19731974,,East,78,40,24,0,94,300,251,49
+410,Toronto Maple Leafs,19731974,,East,78,35,27,0,86,274,230,44
+411,Buffalo Sabres,19731974,,East,78,32,34,0,76,242,250,-8
+412,Detroit Red Wings,19731974,,East,78,29,39,0,68,255,319,-64
+413,Vancouver Canucks,19731974,,East,78,24,43,0,59,224,296,-72
+414,New York Islanders,19731974,,East,78,19,41,0,56,182,247,-65
+415,Philadelphia Flyers,19731974,,West,78,50,16,0,112,273,164,109
+416,Chicago Blackhawks,19731974,,West,78,41,14,0,105,272,164,108
+417,Los Angeles Kings,19731974,,West,78,33,33,0,78,233,231,2
+418,Atlanta Flames,19731974,,West,78,30,34,0,74,214,238,-24
+419,Pittsburgh Penguins,19731974,,West,78,28,41,0,65,242,273,-31
+420,St. Louis Blues,19731974,,West,78,26,40,0,64,206,248,-42
+421,Minnesota North Stars,19731974,,West,78,23,38,0,63,235,275,-40
+422,California Golden Seals,19731974,,West,78,13,55,0,36,195,342,-147
+423,Philadelphia Flyers,19741975,Clarence Campbell,Patrick,80,51,18,0,113,293,181,112
+424,New York Rangers,19741975,Clarence Campbell,Patrick,80,37,29,0,88,319,276,43
+425,New York Islanders,19741975,Clarence Campbell,Patrick,80,33,25,0,88,264,221,43
+426,Atlanta Flames,19741975,Clarence Campbell,Patrick,80,34,31,0,83,243,233,10
+427,Vancouver Canucks,19741975,Clarence Campbell,Smythe,80,38,32,0,86,271,254,17
+428,St. Louis Blues,19741975,Clarence Campbell,Smythe,80,35,31,0,84,269,267,2
+429,Chicago Blackhawks,19741975,Clarence Campbell,Smythe,80,37,35,0,82,268,241,27
+430,Minnesota North Stars,19741975,Clarence Campbell,Smythe,80,23,50,0,53,221,341,-120
+431,Kansas City Scouts,19741975,Clarence Campbell,Smythe,80,15,54,0,41,184,328,-144
+432,Buffalo Sabres,19741975,Prince of Wales,Adams,80,49,16,0,113,354,240,114
+433,Boston Bruins,19741975,Prince of Wales,Adams,80,40,26,0,94,345,245,100
+434,Toronto Maple Leafs,19741975,Prince of Wales,Adams,80,31,33,0,78,280,309,-29
+435,California Golden Seals,19741975,Prince of Wales,Adams,80,19,48,0,51,212,316,-104
+436,Montréal Canadiens,19741975,Prince of Wales,Norris,80,47,14,0,113,374,225,149
+437,Los Angeles Kings,19741975,Prince of Wales,Norris,80,42,17,0,105,269,185,84
+438,Pittsburgh Penguins,19741975,Prince of Wales,Norris,80,37,28,0,89,326,289,37
+439,Detroit Red Wings,19741975,Prince of Wales,Norris,80,23,45,0,58,259,335,-76
+440,Washington Capitals,19741975,Prince of Wales,Norris,80,8,67,0,21,181,446,-265
+441,Philadelphia Flyers,19751976,Clarence Campbell,Patrick,80,51,13,0,118,348,209,139
+442,New York Islanders,19751976,Clarence Campbell,Patrick,80,42,21,0,101,297,190,107
+443,Atlanta Flames,19751976,Clarence Campbell,Patrick,80,35,33,0,82,262,237,25
+444,New York Rangers,19751976,Clarence Campbell,Patrick,80,29,42,0,67,262,333,-71
+445,Chicago Blackhawks,19751976,Clarence Campbell,Smythe,80,32,30,0,82,254,261,-7
+446,Vancouver Canucks,19751976,Clarence Campbell,Smythe,80,33,32,0,81,271,272,-1
+447,St. Louis Blues,19751976,Clarence Campbell,Smythe,80,29,37,0,72,249,290,-41
+448,Minnesota North Stars,19751976,Clarence Campbell,Smythe,80,20,53,0,47,195,303,-108
+449,Kansas City Scouts,19751976,Clarence Campbell,Smythe,80,12,56,0,36,190,351,-161
+450,Boston Bruins,19751976,Prince of Wales,Adams,80,48,15,0,113,313,237,76
+451,Buffalo Sabres,19751976,Prince of Wales,Adams,80,46,21,0,105,339,240,99
+452,Toronto Maple Leafs,19751976,Prince of Wales,Adams,80,34,31,0,83,294,276,18
+453,California Golden Seals,19751976,Prince of Wales,Adams,80,27,42,0,65,250,278,-28
+454,Montréal Canadiens,19751976,Prince of Wales,Norris,80,58,11,0,127,337,174,163
+455,Los Angeles Kings,19751976,Prince of Wales,Norris,80,38,33,0,85,263,265,-2
+456,Pittsburgh Penguins,19751976,Prince of Wales,Norris,80,35,33,0,82,339,303,36
+457,Detroit Red Wings,19751976,Prince of Wales,Norris,80,26,44,0,62,226,300,-74
+458,Washington Capitals,19751976,Prince of Wales,Norris,80,11,59,0,32,224,394,-170
+459,Philadelphia Flyers,19761977,Clarence Campbell,Patrick,80,48,16,0,112,323,213,110
+460,New York Islanders,19761977,Clarence Campbell,Patrick,80,47,21,0,106,288,193,95
+461,Atlanta Flames,19761977,Clarence Campbell,Patrick,80,34,34,0,80,264,265,-1
+462,New York Rangers,19761977,Clarence Campbell,Patrick,80,29,37,0,72,272,310,-38
+463,St. Louis Blues,19761977,Clarence Campbell,Smythe,80,32,39,0,73,239,276,-37
+464,Minnesota North Stars,19761977,Clarence Campbell,Smythe,80,23,39,0,64,240,310,-70
+465,Chicago Blackhawks,19761977,Clarence Campbell,Smythe,80,26,43,0,63,240,298,-58
+466,Vancouver Canucks,19761977,Clarence Campbell,Smythe,80,25,42,0,63,235,294,-59
+467,Colorado Rockies,19761977,Clarence Campbell,Smythe,80,20,46,0,54,226,307,-81
+468,Boston Bruins,19761977,Prince of Wales,Adams,80,49,23,0,106,312,240,72
+469,Buffalo Sabres,19761977,Prince of Wales,Adams,80,48,24,0,104,301,220,81
+470,Toronto Maple Leafs,19761977,Prince of Wales,Adams,80,33,32,0,81,301,285,16
+471,Cleveland Barons,19761977,Prince of Wales,Adams,80,25,42,0,63,240,292,-52
+472,Montréal Canadiens,19761977,Prince of Wales,Norris,80,60,8,0,132,387,171,216
+473,Los Angeles Kings,19761977,Prince of Wales,Norris,80,34,31,0,83,271,241,30
+474,Pittsburgh Penguins,19761977,Prince of Wales,Norris,80,34,33,0,81,240,252,-12
+475,Washington Capitals,19761977,Prince of Wales,Norris,80,24,42,0,62,221,307,-86
+476,Detroit Red Wings,19761977,Prince of Wales,Norris,80,16,55,0,41,183,309,-126
+477,New York Islanders,19771978,Clarence Campbell,Patrick,80,48,17,0,111,334,210,124
+478,Philadelphia Flyers,19771978,Clarence Campbell,Patrick,80,45,20,0,105,296,200,96
+479,Atlanta Flames,19771978,Clarence Campbell,Patrick,80,34,27,0,87,274,252,22
+480,New York Rangers,19771978,Clarence Campbell,Patrick,80,30,37,0,73,279,280,-1
+481,Chicago Blackhawks,19771978,Clarence Campbell,Smythe,80,32,29,0,83,230,220,10
+482,Colorado Rockies,19771978,Clarence Campbell,Smythe,80,19,40,0,59,257,305,-48
+483,Vancouver Canucks,19771978,Clarence Campbell,Smythe,80,20,43,0,57,239,320,-81
+484,St. Louis Blues,19771978,Clarence Campbell,Smythe,80,20,47,0,53,195,304,-109
+485,Minnesota North Stars,19771978,Clarence Campbell,Smythe,80,18,53,0,45,218,325,-107
+486,Boston Bruins,19771978,Prince of Wales,Adams,80,51,18,0,113,333,218,115
+487,Buffalo Sabres,19771978,Prince of Wales,Adams,80,44,19,0,105,288,215,73
+488,Toronto Maple Leafs,19771978,Prince of Wales,Adams,80,41,29,0,92,271,237,34
+489,Cleveland Barons,19771978,Prince of Wales,Adams,80,22,45,0,57,230,325,-95
+490,Montréal Canadiens,19771978,Prince of Wales,Norris,80,59,10,0,129,359,183,176
+491,Detroit Red Wings,19771978,Prince of Wales,Norris,80,32,34,0,78,252,266,-14
+492,Los Angeles Kings,19771978,Prince of Wales,Norris,80,31,34,0,77,243,245,-2
+493,Pittsburgh Penguins,19771978,Prince of Wales,Norris,80,25,37,0,68,254,321,-67
+494,Washington Capitals,19771978,Prince of Wales,Norris,80,17,49,0,48,195,321,-126
+495,New York Islanders,19781979,Clarence Campbell,Patrick,80,51,15,0,116,358,214,144
+496,Philadelphia Flyers,19781979,Clarence Campbell,Patrick,80,40,25,0,95,281,248,33
+497,New York Rangers,19781979,Clarence Campbell,Patrick,80,40,29,0,91,316,292,24
+498,Atlanta Flames,19781979,Clarence Campbell,Patrick,80,41,31,0,90,327,280,47
+499,Chicago Blackhawks,19781979,Clarence Campbell,Smythe,80,29,36,0,73,244,277,-33
+500,Vancouver Canucks,19781979,Clarence Campbell,Smythe,80,25,42,0,63,217,291,-74
+501,St. Louis Blues,19781979,Clarence Campbell,Smythe,80,18,50,0,48,249,348,-99
+502,Colorado Rockies,19781979,Clarence Campbell,Smythe,80,15,53,0,42,210,331,-121
+503,Boston Bruins,19781979,Prince of Wales,Adams,80,43,23,0,100,316,270,46
+504,Buffalo Sabres,19781979,Prince of Wales,Adams,80,36,28,0,88,280,263,17
+505,Toronto Maple Leafs,19781979,Prince of Wales,Adams,80,34,33,0,81,267,252,15
+506,Minnesota North Stars,19781979,Prince of Wales,Adams,80,28,40,0,68,257,289,-32
+507,Montréal Canadiens,19781979,Prince of Wales,Norris,80,52,17,0,115,337,204,133
+508,Pittsburgh Penguins,19781979,Prince of Wales,Norris,80,36,31,0,85,281,279,2
+509,Los Angeles Kings,19781979,Prince of Wales,Norris,80,34,34,0,80,292,286,6
+510,Washington Capitals,19781979,Prince of Wales,Norris,80,24,41,0,63,273,338,-65
+511,Detroit Red Wings,19781979,Prince of Wales,Norris,80,23,41,0,62,252,295,-43
+512,Philadelphia Flyers,19791980,Clarence Campbell,Patrick,80,48,12,0,116,327,254,73
+513,New York Islanders,19791980,Clarence Campbell,Patrick,80,39,28,0,91,281,247,34
+514,New York Rangers,19791980,Clarence Campbell,Patrick,80,38,32,0,86,308,284,24
+515,Atlanta Flames,19791980,Clarence Campbell,Patrick,80,35,32,0,83,282,269,13
+516,Washington Capitals,19791980,Clarence Campbell,Patrick,80,27,40,0,67,261,293,-32
+517,Chicago Blackhawks,19791980,Clarence Campbell,Smythe,80,34,27,0,87,241,250,-9
+518,St. Louis Blues,19791980,Clarence Campbell,Smythe,80,34,34,0,80,266,278,-12
+519,Vancouver Canucks,19791980,Clarence Campbell,Smythe,80,27,37,0,70,256,281,-25
+520,Edmonton Oilers,19791980,Clarence Campbell,Smythe,80,28,39,0,69,301,322,-21
+521,Winnipeg Jets (1979),19791980,Clarence Campbell,Smythe,80,20,49,0,51,214,314,-100
+522,Colorado Rockies,19791980,Clarence Campbell,Smythe,80,19,48,0,51,234,308,-74
+523,Buffalo Sabres,19791980,Prince of Wales,Adams,80,47,17,0,110,318,201,117
+524,Boston Bruins,19791980,Prince of Wales,Adams,80,46,21,0,105,310,234,76
+525,Minnesota North Stars,19791980,Prince of Wales,Adams,80,36,28,0,88,311,253,58
+526,Toronto Maple Leafs,19791980,Prince of Wales,Adams,80,35,40,0,75,304,327,-23
+527,Quebec Nordiques,19791980,Prince of Wales,Adams,80,25,44,0,61,248,313,-65
+528,Montréal Canadiens,19791980,Prince of Wales,Norris,80,47,20,0,107,328,240,88
+529,Los Angeles Kings,19791980,Prince of Wales,Norris,80,30,36,0,74,290,313,-23
+530,Pittsburgh Penguins,19791980,Prince of Wales,Norris,80,30,37,0,73,251,303,-52
+531,Hartford Whalers,19791980,Prince of Wales,Norris,80,27,34,0,73,303,312,-9
+532,Detroit Red Wings,19791980,Prince of Wales,Norris,80,26,43,0,63,268,306,-38
+533,New York Islanders,19801981,Clarence Campbell,Patrick,80,48,18,0,110,355,260,95
+534,Philadelphia Flyers,19801981,Clarence Campbell,Patrick,80,41,24,0,97,313,249,64
+535,Calgary Flames,19801981,Clarence Campbell,Patrick,80,39,27,0,92,329,298,31
+536,New York Rangers,19801981,Clarence Campbell,Patrick,80,30,36,0,74,312,317,-5
+537,Washington Capitals,19801981,Clarence Campbell,Patrick,80,26,36,0,70,286,317,-31
+538,St. Louis Blues,19801981,Clarence Campbell,Smythe,80,45,18,0,107,352,281,71
+539,Chicago Blackhawks,19801981,Clarence Campbell,Smythe,80,31,33,0,78,304,315,-11
+540,Vancouver Canucks,19801981,Clarence Campbell,Smythe,80,28,32,0,76,289,301,-12
+541,Edmonton Oilers,19801981,Clarence Campbell,Smythe,80,29,35,0,74,328,327,1
+542,Colorado Rockies,19801981,Clarence Campbell,Smythe,80,22,45,0,57,258,344,-86
+543,Winnipeg Jets (1979),19801981,Clarence Campbell,Smythe,80,9,57,0,32,246,400,-154
+544,Buffalo Sabres,19801981,Prince of Wales,Adams,80,39,20,0,99,327,250,77
+545,Boston Bruins,19801981,Prince of Wales,Adams,80,37,30,0,87,316,272,44
+546,Minnesota North Stars,19801981,Prince of Wales,Adams,80,35,28,0,87,291,263,28
+547,Quebec Nordiques,19801981,Prince of Wales,Adams,80,30,32,0,78,314,318,-4
+548,Toronto Maple Leafs,19801981,Prince of Wales,Adams,80,28,37,0,71,322,367,-45
+549,Montréal Canadiens,19801981,Prince of Wales,Norris,80,45,22,0,103,332,232,100
+550,Los Angeles Kings,19801981,Prince of Wales,Norris,80,43,24,0,99,337,290,47
+551,Pittsburgh Penguins,19801981,Prince of Wales,Norris,80,30,37,0,73,302,345,-43
+552,Hartford Whalers,19801981,Prince of Wales,Norris,80,21,41,0,60,292,372,-80
+553,Detroit Red Wings,19801981,Prince of Wales,Norris,80,19,43,0,56,252,339,-87
+554,Minnesota North Stars,19811982,Clarence Campbell,Norris,80,37,23,0,94,346,288,58
+555,Winnipeg Jets (1979),19811982,Clarence Campbell,Norris,80,33,33,0,80,319,332,-13
+556,St. Louis Blues,19811982,Clarence Campbell,Norris,80,32,40,0,72,315,349,-34
+557,Chicago Blackhawks,19811982,Clarence Campbell,Norris,80,30,38,0,72,332,363,-31
+558,Toronto Maple Leafs,19811982,Clarence Campbell,Norris,80,20,44,0,56,298,380,-82
+559,Detroit Red Wings,19811982,Clarence Campbell,Norris,80,21,47,0,54,270,351,-81
+560,Edmonton Oilers,19811982,Clarence Campbell,Smythe,80,48,17,0,111,417,295,122
+561,Vancouver Canucks,19811982,Clarence Campbell,Smythe,80,30,33,0,77,290,286,4
+562,Calgary Flames,19811982,Clarence Campbell,Smythe,80,29,34,0,75,334,345,-11
+563,Los Angeles Kings,19811982,Clarence Campbell,Smythe,80,24,41,0,63,314,369,-55
+564,Colorado Rockies,19811982,Clarence Campbell,Smythe,80,18,49,0,49,241,362,-121
+565,Montréal Canadiens,19811982,Prince of Wales,Adams,80,46,17,0,109,360,223,137
+566,Boston Bruins,19811982,Prince of Wales,Adams,80,43,27,0,96,323,285,38
+567,Buffalo Sabres,19811982,Prince of Wales,Adams,80,39,26,0,93,307,273,34
+568,Quebec Nordiques,19811982,Prince of Wales,Adams,80,33,31,0,82,356,345,11
+569,Hartford Whalers,19811982,Prince of Wales,Adams,80,21,41,0,60,264,351,-87
+570,New York Islanders,19811982,Prince of Wales,Patrick,80,54,16,0,118,385,250,135
+571,New York Rangers,19811982,Prince of Wales,Patrick,80,39,27,0,92,316,306,10
+572,Philadelphia Flyers,19811982,Prince of Wales,Patrick,80,38,31,0,87,325,313,12
+573,Pittsburgh Penguins,19811982,Prince of Wales,Patrick,80,31,36,0,75,310,337,-27
+574,Washington Capitals,19811982,Prince of Wales,Patrick,80,26,41,0,65,319,338,-19
+575,Chicago Blackhawks,19821983,Clarence Campbell,Norris,80,47,23,0,104,338,268,70
+576,Minnesota North Stars,19821983,Clarence Campbell,Norris,80,40,24,0,96,321,290,31
+577,Toronto Maple Leafs,19821983,Clarence Campbell,Norris,80,28,40,0,68,293,330,-37
+578,St. Louis Blues,19821983,Clarence Campbell,Norris,80,25,40,0,65,285,316,-31
+579,Detroit Red Wings,19821983,Clarence Campbell,Norris,80,21,44,0,57,263,344,-81
+580,Edmonton Oilers,19821983,Clarence Campbell,Smythe,80,47,21,0,106,424,315,109
+581,Calgary Flames,19821983,Clarence Campbell,Smythe,80,32,34,0,78,321,317,4
+582,Vancouver Canucks,19821983,Clarence Campbell,Smythe,80,30,35,0,75,303,309,-6
+583,Winnipeg Jets (1979),19821983,Clarence Campbell,Smythe,80,33,39,0,74,311,333,-22
+584,Los Angeles Kings,19821983,Clarence Campbell,Smythe,80,27,41,0,66,308,365,-57
+585,Boston Bruins,19821983,Prince of Wales,Adams,80,50,20,0,110,327,228,99
+586,Montréal Canadiens,19821983,Prince of Wales,Adams,80,42,24,0,98,350,286,64
+587,Buffalo Sabres,19821983,Prince of Wales,Adams,80,38,29,0,89,318,285,33
+588,Quebec Nordiques,19821983,Prince of Wales,Adams,80,34,34,0,80,343,336,7
+589,Hartford Whalers,19821983,Prince of Wales,Adams,80,19,54,0,45,261,403,-142
+590,Philadelphia Flyers,19821983,Prince of Wales,Patrick,80,49,23,0,106,326,240,86
+591,New York Islanders,19821983,Prince of Wales,Patrick,80,42,26,0,96,302,226,76
+592,Washington Capitals,19821983,Prince of Wales,Patrick,80,39,25,0,94,306,283,23
+593,New York Rangers,19821983,Prince of Wales,Patrick,80,35,35,0,80,306,287,19
+594,New Jersey Devils,19821983,Prince of Wales,Patrick,80,17,49,0,48,230,338,-108
+595,Pittsburgh Penguins,19821983,Prince of Wales,Patrick,80,18,53,0,45,257,394,-137
+596,Minnesota North Stars,19831984,Clarence Campbell,Norris,80,39,31,0,88,345,344,1
+597,St. Louis Blues,19831984,Clarence Campbell,Norris,80,32,41,0,71,293,316,-23
+598,Detroit Red Wings,19831984,Clarence Campbell,Norris,80,31,42,0,69,298,323,-25
+599,Chicago Blackhawks,19831984,Clarence Campbell,Norris,80,30,42,0,68,277,311,-34
+600,Toronto Maple Leafs,19831984,Clarence Campbell,Norris,80,26,45,0,61,303,387,-84
+601,Edmonton Oilers,19831984,Clarence Campbell,Smythe,80,57,18,0,119,446,314,132
+602,Calgary Flames,19831984,Clarence Campbell,Smythe,80,34,32,0,82,311,314,-3
+603,Vancouver Canucks,19831984,Clarence Campbell,Smythe,80,32,39,0,73,306,328,-22
+604,Winnipeg Jets (1979),19831984,Clarence Campbell,Smythe,80,31,38,0,73,340,374,-34
+605,Los Angeles Kings,19831984,Clarence Campbell,Smythe,80,23,44,0,59,309,376,-67
+606,Boston Bruins,19831984,Prince of Wales,Adams,80,49,25,0,104,336,261,75
+607,Buffalo Sabres,19831984,Prince of Wales,Adams,80,48,25,0,103,315,257,58
+608,Quebec Nordiques,19831984,Prince of Wales,Adams,80,42,28,0,94,360,278,82
+609,Montréal Canadiens,19831984,Prince of Wales,Adams,80,35,40,0,75,286,295,-9
+610,Hartford Whalers,19831984,Prince of Wales,Adams,80,28,42,0,66,288,320,-32
+611,New York Islanders,19831984,Prince of Wales,Patrick,80,50,26,0,104,357,269,88
+612,Washington Capitals,19831984,Prince of Wales,Patrick,80,48,27,0,101,308,226,82
+613,Philadelphia Flyers,19831984,Prince of Wales,Patrick,80,44,26,0,98,350,290,60
+614,New York Rangers,19831984,Prince of Wales,Patrick,80,42,29,0,93,314,304,10
+615,New Jersey Devils,19831984,Prince of Wales,Patrick,80,17,56,0,41,231,350,-119
+616,Pittsburgh Penguins,19831984,Prince of Wales,Patrick,80,16,58,0,38,254,390,-136
+617,St. Louis Blues,19841985,Clarence Campbell,Norris,80,37,31,0,86,299,288,11
+618,Chicago Blackhawks,19841985,Clarence Campbell,Norris,80,38,35,0,83,309,299,10
+619,Detroit Red Wings,19841985,Clarence Campbell,Norris,80,27,41,0,66,313,357,-44
+620,Minnesota North Stars,19841985,Clarence Campbell,Norris,80,25,43,0,62,268,321,-53
+621,Toronto Maple Leafs,19841985,Clarence Campbell,Norris,80,20,52,0,48,253,358,-105
+622,Edmonton Oilers,19841985,Clarence Campbell,Smythe,80,49,20,0,109,401,298,103
+623,Winnipeg Jets (1979),19841985,Clarence Campbell,Smythe,80,43,27,0,96,358,332,26
+624,Calgary Flames,19841985,Clarence Campbell,Smythe,80,41,27,0,94,363,302,61
+625,Los Angeles Kings,19841985,Clarence Campbell,Smythe,80,34,32,0,82,339,326,13
+626,Vancouver Canucks,19841985,Clarence Campbell,Smythe,80,25,46,0,59,284,401,-117
+627,Montréal Canadiens,19841985,Prince of Wales,Adams,80,41,27,0,94,309,262,47
+628,Quebec Nordiques,19841985,Prince of Wales,Adams,80,41,30,0,91,323,275,48
+629,Buffalo Sabres,19841985,Prince of Wales,Adams,80,38,28,0,90,290,237,53
+630,Boston Bruins,19841985,Prince of Wales,Adams,80,36,34,0,82,303,287,16
+631,Hartford Whalers,19841985,Prince of Wales,Adams,80,30,41,0,69,268,318,-50
+632,Philadelphia Flyers,19841985,Prince of Wales,Patrick,80,53,20,0,113,348,241,107
+633,Washington Capitals,19841985,Prince of Wales,Patrick,80,46,25,0,101,322,240,82
+634,New York Islanders,19841985,Prince of Wales,Patrick,80,40,34,0,86,345,312,33
+635,New York Rangers,19841985,Prince of Wales,Patrick,80,26,44,0,62,295,345,-50
+636,New Jersey Devils,19841985,Prince of Wales,Patrick,80,22,48,0,54,264,346,-82
+637,Pittsburgh Penguins,19841985,Prince of Wales,Patrick,80,24,51,0,53,276,385,-109
+638,Chicago Blackhawks,19851986,Clarence Campbell,Norris,80,39,33,0,86,351,349,2
+639,Minnesota North Stars,19851986,Clarence Campbell,Norris,80,38,33,0,85,327,305,22
+640,St. Louis Blues,19851986,Clarence Campbell,Norris,80,37,34,0,83,302,291,11
+641,Toronto Maple Leafs,19851986,Clarence Campbell,Norris,80,25,48,0,57,311,386,-75
+642,Detroit Red Wings,19851986,Clarence Campbell,Norris,80,17,57,0,40,266,415,-149
+643,Edmonton Oilers,19851986,Clarence Campbell,Smythe,80,56,17,0,119,426,310,116
+644,Calgary Flames,19851986,Clarence Campbell,Smythe,80,40,31,0,89,354,315,39
+645,Winnipeg Jets (1979),19851986,Clarence Campbell,Smythe,80,26,47,0,59,295,372,-77
+646,Vancouver Canucks,19851986,Clarence Campbell,Smythe,80,23,44,0,59,282,333,-51
+647,Los Angeles Kings,19851986,Clarence Campbell,Smythe,80,23,49,0,54,284,389,-105
+648,Quebec Nordiques,19851986,Prince of Wales,Adams,80,43,31,0,92,330,289,41
+649,Montréal Canadiens,19851986,Prince of Wales,Adams,80,40,33,0,87,330,280,50
+650,Boston Bruins,19851986,Prince of Wales,Adams,80,37,31,0,86,311,288,23
+651,Hartford Whalers,19851986,Prince of Wales,Adams,80,40,36,0,84,332,302,30
+652,Buffalo Sabres,19851986,Prince of Wales,Adams,80,37,37,0,80,296,291,5
+653,Philadelphia Flyers,19851986,Prince of Wales,Patrick,80,53,23,0,110,335,241,94
+654,Washington Capitals,19851986,Prince of Wales,Patrick,80,50,23,0,107,315,272,43
+655,New York Islanders,19851986,Prince of Wales,Patrick,80,39,29,0,90,327,284,43
+656,New York Rangers,19851986,Prince of Wales,Patrick,80,36,38,0,78,280,276,4
+657,Pittsburgh Penguins,19851986,Prince of Wales,Patrick,80,34,38,0,76,313,305,8
+658,New Jersey Devils,19851986,Prince of Wales,Patrick,80,28,49,0,59,300,374,-74
+659,St. Louis Blues,19861987,Clarence Campbell,Norris,80,32,33,0,79,281,293,-12
+660,Detroit Red Wings,19861987,Clarence Campbell,Norris,80,34,36,0,78,260,274,-14
+661,Chicago Blackhawks,19861987,Clarence Campbell,Norris,80,29,37,0,72,290,310,-20
+662,Toronto Maple Leafs,19861987,Clarence Campbell,Norris,80,32,42,0,70,286,319,-33
+663,Minnesota North Stars,19861987,Clarence Campbell,Norris,80,30,40,0,70,296,314,-18
+664,Edmonton Oilers,19861987,Clarence Campbell,Smythe,80,50,24,0,106,372,284,88
+665,Calgary Flames,19861987,Clarence Campbell,Smythe,80,46,31,0,95,318,289,29
+666,Winnipeg Jets (1979),19861987,Clarence Campbell,Smythe,80,40,32,0,88,279,271,8
+667,Los Angeles Kings,19861987,Clarence Campbell,Smythe,80,31,41,0,70,318,341,-23
+668,Vancouver Canucks,19861987,Clarence Campbell,Smythe,80,29,43,0,66,282,314,-32
+669,Hartford Whalers,19861987,Prince of Wales,Adams,80,43,30,0,93,287,270,17
+670,Montréal Canadiens,19861987,Prince of Wales,Adams,80,41,29,0,92,277,241,36
+671,Boston Bruins,19861987,Prince of Wales,Adams,80,39,34,0,85,301,276,25
+672,Quebec Nordiques,19861987,Prince of Wales,Adams,80,31,39,0,72,267,276,-9
+673,Buffalo Sabres,19861987,Prince of Wales,Adams,80,28,44,0,64,280,308,-28
+674,Philadelphia Flyers,19861987,Prince of Wales,Patrick,80,46,26,0,100,310,245,65
+675,Washington Capitals,19861987,Prince of Wales,Patrick,80,38,32,0,86,285,278,7
+676,New York Islanders,19861987,Prince of Wales,Patrick,80,35,33,0,82,279,281,-2
+677,New York Rangers,19861987,Prince of Wales,Patrick,80,34,38,0,76,307,323,-16
+678,Pittsburgh Penguins,19861987,Prince of Wales,Patrick,80,30,38,0,72,297,290,7
+679,New Jersey Devils,19861987,Prince of Wales,Patrick,80,29,45,0,64,293,368,-75
+680,Detroit Red Wings,19871988,Clarence Campbell,Norris,80,41,28,0,93,322,269,53
+681,St. Louis Blues,19871988,Clarence Campbell,Norris,80,34,38,0,76,278,294,-16
+682,Chicago Blackhawks,19871988,Clarence Campbell,Norris,80,30,41,0,69,284,328,-44
+683,Toronto Maple Leafs,19871988,Clarence Campbell,Norris,80,21,49,0,52,273,345,-72
+684,Minnesota North Stars,19871988,Clarence Campbell,Norris,80,19,48,0,51,242,349,-107
+685,Calgary Flames,19871988,Clarence Campbell,Smythe,80,48,23,0,105,397,305,92
+686,Edmonton Oilers,19871988,Clarence Campbell,Smythe,80,44,25,0,99,363,288,75
+687,Winnipeg Jets (1979),19871988,Clarence Campbell,Smythe,80,33,36,0,77,292,310,-18
+688,Los Angeles Kings,19871988,Clarence Campbell,Smythe,80,30,42,0,68,318,359,-41
+689,Vancouver Canucks,19871988,Clarence Campbell,Smythe,80,25,46,0,59,272,320,-48
+690,Montréal Canadiens,19871988,Prince of Wales,Adams,80,45,22,0,103,298,238,60
+691,Boston Bruins,19871988,Prince of Wales,Adams,80,44,30,0,94,300,251,49
+692,Buffalo Sabres,19871988,Prince of Wales,Adams,80,37,32,0,85,283,305,-22
+693,Hartford Whalers,19871988,Prince of Wales,Adams,80,35,38,0,77,249,267,-18
+694,Quebec Nordiques,19871988,Prince of Wales,Adams,80,32,43,0,69,271,306,-35
+695,New York Islanders,19871988,Prince of Wales,Patrick,80,39,31,0,88,308,267,41
+696,Washington Capitals,19871988,Prince of Wales,Patrick,80,38,33,0,85,281,249,32
+697,Philadelphia Flyers,19871988,Prince of Wales,Patrick,80,38,33,0,85,292,292,0
+698,New Jersey Devils,19871988,Prince of Wales,Patrick,80,38,36,0,82,295,296,-1
+699,New York Rangers,19871988,Prince of Wales,Patrick,80,36,34,0,82,300,283,17
+700,Pittsburgh Penguins,19871988,Prince of Wales,Patrick,80,36,35,0,81,319,316,3
+701,Detroit Red Wings,19881989,Clarence Campbell,Norris,80,34,34,0,80,313,316,-3
+702,St. Louis Blues,19881989,Clarence Campbell,Norris,80,33,35,0,78,275,285,-10
+703,Minnesota North Stars,19881989,Clarence Campbell,Norris,80,27,37,0,70,258,278,-20
+704,Chicago Blackhawks,19881989,Clarence Campbell,Norris,80,27,41,0,66,297,335,-38
+705,Toronto Maple Leafs,19881989,Clarence Campbell,Norris,80,28,46,0,62,259,342,-83
+706,Calgary Flames,19881989,Clarence Campbell,Smythe,80,54,17,0,117,354,226,128
+707,Los Angeles Kings,19881989,Clarence Campbell,Smythe,80,42,31,0,91,376,335,41
+708,Edmonton Oilers,19881989,Clarence Campbell,Smythe,80,38,34,0,84,325,306,19
+709,Vancouver Canucks,19881989,Clarence Campbell,Smythe,80,33,39,0,74,251,253,-2
+710,Winnipeg Jets (1979),19881989,Clarence Campbell,Smythe,80,26,42,0,64,300,355,-55
+711,Montréal Canadiens,19881989,Prince of Wales,Adams,80,53,18,0,115,315,218,97
+712,Boston Bruins,19881989,Prince of Wales,Adams,80,37,29,0,88,289,256,33
+713,Buffalo Sabres,19881989,Prince of Wales,Adams,80,38,35,0,83,291,299,-8
+714,Hartford Whalers,19881989,Prince of Wales,Adams,80,37,38,0,79,299,290,9
+715,Quebec Nordiques,19881989,Prince of Wales,Adams,80,27,46,0,61,269,342,-73
+716,Washington Capitals,19881989,Prince of Wales,Patrick,80,41,29,0,92,305,259,46
+717,Pittsburgh Penguins,19881989,Prince of Wales,Patrick,80,40,33,0,87,347,349,-2
+718,New York Rangers,19881989,Prince of Wales,Patrick,80,37,35,0,82,310,307,3
+719,Philadelphia Flyers,19881989,Prince of Wales,Patrick,80,36,36,0,80,307,285,22
+720,New Jersey Devils,19881989,Prince of Wales,Patrick,80,27,41,0,66,281,325,-44
+721,New York Islanders,19881989,Prince of Wales,Patrick,80,28,47,0,61,265,325,-60
+722,Chicago Blackhawks,19891990,Clarence Campbell,Norris,80,41,33,0,88,316,294,22
+723,St. Louis Blues,19891990,Clarence Campbell,Norris,80,37,34,0,83,295,279,16
+724,Toronto Maple Leafs,19891990,Clarence Campbell,Norris,80,38,38,0,80,337,358,-21
+725,Minnesota North Stars,19891990,Clarence Campbell,Norris,80,36,40,0,76,284,291,-7
+726,Detroit Red Wings,19891990,Clarence Campbell,Norris,80,28,38,0,70,288,323,-35
+727,Calgary Flames,19891990,Clarence Campbell,Smythe,80,42,23,0,99,348,265,83
+728,Edmonton Oilers,19891990,Clarence Campbell,Smythe,80,38,28,0,90,315,283,32
+729,Winnipeg Jets (1979),19891990,Clarence Campbell,Smythe,80,37,32,0,85,298,290,8
+730,Los Angeles Kings,19891990,Clarence Campbell,Smythe,80,34,39,0,75,338,337,1
+731,Vancouver Canucks,19891990,Clarence Campbell,Smythe,80,25,41,0,64,245,306,-61
+732,Boston Bruins,19891990,Prince of Wales,Adams,80,46,25,0,101,289,232,57
+733,Buffalo Sabres,19891990,Prince of Wales,Adams,80,45,27,0,98,286,248,38
+734,Montréal Canadiens,19891990,Prince of Wales,Adams,80,41,28,0,93,288,234,54
+735,Hartford Whalers,19891990,Prince of Wales,Adams,80,38,33,0,85,275,268,7
+736,Quebec Nordiques,19891990,Prince of Wales,Adams,80,12,61,0,31,240,407,-167
+737,New York Rangers,19891990,Prince of Wales,Patrick,80,36,31,0,85,279,267,12
+738,New Jersey Devils,19891990,Prince of Wales,Patrick,80,37,34,0,83,295,288,7
+739,Washington Capitals,19891990,Prince of Wales,Patrick,80,36,38,0,78,284,275,9
+740,New York Islanders,19891990,Prince of Wales,Patrick,80,31,38,0,73,281,288,-7
+741,Pittsburgh Penguins,19891990,Prince of Wales,Patrick,80,32,40,0,72,318,359,-41
+742,Philadelphia Flyers,19891990,Prince of Wales,Patrick,80,30,39,0,71,290,297,-7
+743,Chicago Blackhawks,19901991,Clarence Campbell,Norris,80,49,23,0,106,284,211,73
+744,St. Louis Blues,19901991,Clarence Campbell,Norris,80,47,22,0,105,310,250,60
+745,Detroit Red Wings,19901991,Clarence Campbell,Norris,80,34,38,0,76,273,298,-25
+746,Minnesota North Stars,19901991,Clarence Campbell,Norris,80,27,39,0,68,256,266,-10
+747,Toronto Maple Leafs,19901991,Clarence Campbell,Norris,80,23,46,0,57,241,318,-77
+748,Los Angeles Kings,19901991,Clarence Campbell,Smythe,80,46,24,0,102,340,254,86
+749,Calgary Flames,19901991,Clarence Campbell,Smythe,80,46,26,0,100,344,263,81
+750,Edmonton Oilers,19901991,Clarence Campbell,Smythe,80,37,37,0,80,272,272,0
+751,Vancouver Canucks,19901991,Clarence Campbell,Smythe,80,28,43,0,65,243,315,-72
+752,Winnipeg Jets (1979),19901991,Clarence Campbell,Smythe,80,26,43,0,63,260,288,-28
+753,Boston Bruins,19901991,Prince of Wales,Adams,80,44,24,0,100,299,264,35
+754,Montréal Canadiens,19901991,Prince of Wales,Adams,80,39,30,0,89,273,249,24
+755,Buffalo Sabres,19901991,Prince of Wales,Adams,80,31,30,0,81,292,278,14
+756,Hartford Whalers,19901991,Prince of Wales,Adams,80,31,38,0,73,238,276,-38
+757,Quebec Nordiques,19901991,Prince of Wales,Adams,80,16,50,0,46,236,354,-118
+758,Pittsburgh Penguins,19901991,Prince of Wales,Patrick,80,41,33,0,88,342,305,37
+759,New York Rangers,19901991,Prince of Wales,Patrick,80,36,31,0,85,297,265,32
+760,Washington Capitals,19901991,Prince of Wales,Patrick,80,37,36,0,81,258,258,0
+761,New Jersey Devils,19901991,Prince of Wales,Patrick,80,32,33,0,79,272,264,8
+762,Philadelphia Flyers,19901991,Prince of Wales,Patrick,80,33,37,0,76,252,267,-15
+763,New York Islanders,19901991,Prince of Wales,Patrick,80,25,45,0,60,223,290,-67
+764,Detroit Red Wings,19911992,Clarence Campbell,Norris,80,43,25,0,98,320,256,64
+765,Chicago Blackhawks,19911992,Clarence Campbell,Norris,80,36,29,0,87,257,236,21
+766,St. Louis Blues,19911992,Clarence Campbell,Norris,80,36,33,0,83,279,266,13
+767,Minnesota North Stars,19911992,Clarence Campbell,Norris,80,32,42,0,70,246,278,-32
+768,Toronto Maple Leafs,19911992,Clarence Campbell,Norris,80,30,43,0,67,234,294,-60
+769,Vancouver Canucks,19911992,Clarence Campbell,Smythe,80,42,26,0,96,285,250,35
+770,Los Angeles Kings,19911992,Clarence Campbell,Smythe,80,35,31,0,84,287,296,-9
+771,Edmonton Oilers,19911992,Clarence Campbell,Smythe,80,36,34,0,82,295,297,-2
+772,Winnipeg Jets (1979),19911992,Clarence Campbell,Smythe,80,33,32,0,81,251,244,7
+773,Calgary Flames,19911992,Clarence Campbell,Smythe,80,31,37,0,74,296,305,-9
+774,San Jose Sharks,19911992,Clarence Campbell,Smythe,80,17,58,0,39,219,359,-140
+775,Montréal Canadiens,19911992,Prince of Wales,Adams,80,41,28,0,93,267,207,60
+776,Boston Bruins,19911992,Prince of Wales,Adams,80,36,32,0,84,270,275,-5
+777,Buffalo Sabres,19911992,Prince of Wales,Adams,80,31,37,0,74,289,299,-10
+778,Hartford Whalers,19911992,Prince of Wales,Adams,80,26,41,0,65,247,283,-36
+779,Quebec Nordiques,19911992,Prince of Wales,Adams,80,20,48,0,52,255,318,-63
+780,New York Rangers,19911992,Prince of Wales,Patrick,80,50,25,0,105,321,246,75
+781,Washington Capitals,19911992,Prince of Wales,Patrick,80,45,27,0,98,330,275,55
+782,Pittsburgh Penguins,19911992,Prince of Wales,Patrick,80,39,32,0,87,343,308,35
+783,New Jersey Devils,19911992,Prince of Wales,Patrick,80,38,31,0,87,289,259,30
+784,New York Islanders,19911992,Prince of Wales,Patrick,80,34,35,0,79,291,299,-8
+785,Philadelphia Flyers,19911992,Prince of Wales,Patrick,80,32,37,0,75,252,273,-21
+786,Chicago Blackhawks,19921993,Clarence Campbell,Norris,84,47,25,0,106,279,230,49
+787,Detroit Red Wings,19921993,Clarence Campbell,Norris,84,47,28,0,103,369,280,89
+788,Toronto Maple Leafs,19921993,Clarence Campbell,Norris,84,44,29,0,99,288,241,47
+789,St. Louis Blues,19921993,Clarence Campbell,Norris,84,37,36,0,85,282,278,4
+790,Minnesota North Stars,19921993,Clarence Campbell,Norris,84,36,38,0,82,272,293,-21
+791,Tampa Bay Lightning,19921993,Clarence Campbell,Norris,84,23,54,0,53,245,332,-87
+792,Vancouver Canucks,19921993,Clarence Campbell,Smythe,84,46,29,0,101,346,278,68
+793,Calgary Flames,19921993,Clarence Campbell,Smythe,84,43,30,0,97,322,282,40
+794,Los Angeles Kings,19921993,Clarence Campbell,Smythe,84,39,35,0,88,338,340,-2
+795,Winnipeg Jets (1979),19921993,Clarence Campbell,Smythe,84,40,37,0,87,322,320,2
+796,Edmonton Oilers,19921993,Clarence Campbell,Smythe,84,26,50,0,60,242,337,-95
+797,San Jose Sharks,19921993,Clarence Campbell,Smythe,84,11,71,0,24,218,414,-196
+798,Boston Bruins,19921993,Prince of Wales,Adams,84,51,26,0,109,332,268,64
+799,Quebec Nordiques,19921993,Prince of Wales,Adams,84,47,27,0,104,351,300,51
+800,Montréal Canadiens,19921993,Prince of Wales,Adams,84,48,30,0,102,326,280,46
+801,Buffalo Sabres,19921993,Prince of Wales,Adams,84,38,36,0,86,335,297,38
+802,Hartford Whalers,19921993,Prince of Wales,Adams,84,26,52,0,58,284,369,-85
+803,Ottawa Senators,19921993,Prince of Wales,Adams,84,10,70,0,24,202,395,-193
+804,Pittsburgh Penguins,19921993,Prince of Wales,Patrick,84,56,21,0,119,367,268,99
+805,Washington Capitals,19921993,Prince of Wales,Patrick,84,43,34,0,93,325,286,39
+806,New York Islanders,19921993,Prince of Wales,Patrick,84,40,37,0,87,335,297,38
+807,New Jersey Devils,19921993,Prince of Wales,Patrick,84,40,37,0,87,308,299,9
+808,Philadelphia Flyers,19921993,Prince of Wales,Patrick,84,36,37,0,83,319,319,0
+809,New York Rangers,19921993,Prince of Wales,Patrick,84,34,39,0,79,304,308,-4
+810,New York Rangers,19931994,Eastern,Atlantic,84,52,24,0,112,299,231,68
+811,New Jersey Devils,19931994,Eastern,Atlantic,84,47,25,0,106,306,220,86
+812,Washington Capitals,19931994,Eastern,Atlantic,84,39,35,0,88,277,263,14
+813,New York Islanders,19931994,Eastern,Atlantic,84,36,36,0,84,282,264,18
+814,Florida Panthers,19931994,Eastern,Atlantic,84,33,34,0,83,233,233,0
+815,Philadelphia Flyers,19931994,Eastern,Atlantic,84,35,39,0,80,294,314,-20
+816,Tampa Bay Lightning,19931994,Eastern,Atlantic,84,30,43,0,71,224,251,-27
+817,Pittsburgh Penguins,19931994,Eastern,Northeast,84,44,27,0,101,299,285,14
+818,Boston Bruins,19931994,Eastern,Northeast,84,42,29,0,97,289,252,37
+819,Montréal Canadiens,19931994,Eastern,Northeast,84,41,29,0,96,283,248,35
+820,Buffalo Sabres,19931994,Eastern,Northeast,84,43,32,0,95,282,218,64
+821,Quebec Nordiques,19931994,Eastern,Northeast,84,34,42,0,76,277,292,-15
+822,Hartford Whalers,19931994,Eastern,Northeast,84,27,48,0,63,227,288,-61
+823,Ottawa Senators,19931994,Eastern,Northeast,84,14,61,0,37,201,397,-196
+824,Detroit Red Wings,19931994,Western,Central,84,46,30,0,100,356,275,81
+825,Toronto Maple Leafs,19931994,Western,Central,84,43,29,0,98,280,243,37
+826,Dallas Stars,19931994,Western,Central,84,42,29,0,97,286,265,21
+827,St. Louis Blues,19931994,Western,Central,84,40,33,0,91,270,283,-13
+828,Chicago Blackhawks,19931994,Western,Central,84,39,36,0,87,254,240,14
+829,Winnipeg Jets (1979),19931994,Western,Central,84,24,51,0,57,245,344,-99
+830,Calgary Flames,19931994,Western,Pacific,84,42,29,0,97,302,256,46
+831,Vancouver Canucks,19931994,Western,Pacific,84,41,40,0,85,279,276,3
+832,San Jose Sharks,19931994,Western,Pacific,84,33,35,0,82,252,265,-13
+833,Anaheim Ducks,19931994,Western,Pacific,84,33,46,0,71,229,251,-22
+834,Los Angeles Kings,19931994,Western,Pacific,84,27,45,0,66,294,322,-28
+835,Edmonton Oilers,19931994,Western,Pacific,84,25,45,0,64,261,305,-44
+836,Philadelphia Flyers,19941995,Eastern,Atlantic,48,28,16,0,60,150,132,18
+837,New Jersey Devils,19941995,Eastern,Atlantic,48,22,18,0,52,136,121,15
+838,Washington Capitals,19941995,Eastern,Atlantic,48,22,18,0,52,136,120,16
+839,New York Rangers,19941995,Eastern,Atlantic,48,22,23,0,47,139,134,5
+840,Florida Panthers,19941995,Eastern,Atlantic,48,20,22,0,46,115,127,-12
+841,Tampa Bay Lightning,19941995,Eastern,Atlantic,48,17,28,0,37,120,144,-24
+842,New York Islanders,19941995,Eastern,Atlantic,48,15,28,0,35,126,158,-32
+843,Quebec Nordiques,19941995,Eastern,Northeast,48,30,13,0,65,185,134,51
+844,Pittsburgh Penguins,19941995,Eastern,Northeast,48,29,16,0,61,181,158,23
+845,Boston Bruins,19941995,Eastern,Northeast,48,27,18,0,57,150,127,23
+846,Buffalo Sabres,19941995,Eastern,Northeast,48,22,19,0,51,130,119,11
+847,Hartford Whalers,19941995,Eastern,Northeast,48,19,24,0,43,127,141,-14
+848,Montréal Canadiens,19941995,Eastern,Northeast,48,18,23,0,43,125,148,-23
+849,Ottawa Senators,19941995,Eastern,Northeast,48,9,34,0,23,117,174,-57
+850,Detroit Red Wings,19941995,Western,Central,48,33,11,0,70,180,117,63
+851,St. Louis Blues,19941995,Western,Central,48,28,15,0,61,178,135,43
+852,Chicago Blackhawks,19941995,Western,Central,48,24,19,0,53,156,115,41
+853,Toronto Maple Leafs,19941995,Western,Central,48,21,19,0,50,135,146,-11
+854,Dallas Stars,19941995,Western,Central,48,17,23,0,42,136,135,1
+855,Winnipeg Jets (1979),19941995,Western,Central,48,16,25,0,39,157,177,-20
+856,Calgary Flames,19941995,Western,Pacific,48,24,17,0,55,163,135,28
+857,Vancouver Canucks,19941995,Western,Pacific,48,18,18,0,48,153,148,5
+858,San Jose Sharks,19941995,Western,Pacific,48,19,25,0,42,129,161,-32
+859,Los Angeles Kings,19941995,Western,Pacific,48,16,23,0,41,142,174,-32
+860,Edmonton Oilers,19941995,Western,Pacific,48,17,27,0,38,136,183,-47
+861,Anaheim Ducks,19941995,Western,Pacific,48,16,27,0,37,125,164,-39
+862,Philadelphia Flyers,19951996,Eastern,Atlantic,82,45,24,0,103,282,208,74
+863,New York Rangers,19951996,Eastern,Atlantic,82,41,27,0,96,272,237,35
+864,Florida Panthers,19951996,Eastern,Atlantic,82,41,31,0,92,254,234,20
+865,Washington Capitals,19951996,Eastern,Atlantic,82,39,32,0,89,234,204,30
+866,Tampa Bay Lightning,19951996,Eastern,Atlantic,82,38,32,0,88,238,248,-10
+867,New Jersey Devils,19951996,Eastern,Atlantic,82,37,33,0,86,215,202,13
+868,New York Islanders,19951996,Eastern,Atlantic,82,22,50,0,54,229,315,-86
+869,Pittsburgh Penguins,19951996,Eastern,Northeast,82,49,29,0,102,362,284,78
+870,Boston Bruins,19951996,Eastern,Northeast,82,40,31,0,91,282,269,13
+871,Montréal Canadiens,19951996,Eastern,Northeast,82,40,32,0,90,265,248,17
+872,Hartford Whalers,19951996,Eastern,Northeast,82,34,39,0,77,237,259,-22
+873,Buffalo Sabres,19951996,Eastern,Northeast,82,33,42,0,73,247,262,-15
+874,Ottawa Senators,19951996,Eastern,Northeast,82,18,59,0,41,191,291,-100
+875,Detroit Red Wings,19951996,Western,Central,82,62,13,0,131,325,181,144
+876,Chicago Blackhawks,19951996,Western,Central,82,40,28,0,94,273,220,53
+877,Toronto Maple Leafs,19951996,Western,Central,82,34,36,0,80,247,252,-5
+878,St. Louis Blues,19951996,Western,Central,82,32,34,0,80,219,248,-29
+879,Winnipeg Jets (1979),19951996,Western,Central,82,36,40,0,78,275,291,-16
+880,Dallas Stars,19951996,Western,Central,82,26,42,0,66,227,280,-53
+881,Colorado Avalanche,19951996,Western,Pacific,82,47,25,0,104,326,240,86
+882,Calgary Flames,19951996,Western,Pacific,82,34,37,0,79,241,240,1
+883,Vancouver Canucks,19951996,Western,Pacific,82,32,35,0,79,278,278,0
+884,Anaheim Ducks,19951996,Western,Pacific,82,35,39,0,78,234,247,-13
+885,Edmonton Oilers,19951996,Western,Pacific,82,30,44,0,68,240,304,-64
+886,Los Angeles Kings,19951996,Western,Pacific,82,24,40,0,66,256,302,-46
+887,San Jose Sharks,19951996,Western,Pacific,82,20,55,0,47,252,357,-105
+888,New Jersey Devils,19961997,Eastern,Atlantic,82,45,23,0,104,231,182,49
+889,Philadelphia Flyers,19961997,Eastern,Atlantic,82,45,24,0,103,274,217,57
+890,Florida Panthers,19961997,Eastern,Atlantic,82,35,28,0,89,221,201,20
+891,New York Rangers,19961997,Eastern,Atlantic,82,38,34,0,86,258,231,27
+892,Washington Capitals,19961997,Eastern,Atlantic,82,33,40,0,75,214,231,-17
+893,Tampa Bay Lightning,19961997,Eastern,Atlantic,82,32,40,0,74,217,247,-30
+894,New York Islanders,19961997,Eastern,Atlantic,82,29,41,0,70,240,250,-10
+895,Buffalo Sabres,19961997,Eastern,Northeast,82,40,30,0,92,237,208,29
+896,Pittsburgh Penguins,19961997,Eastern,Northeast,82,38,36,0,84,285,280,5
+897,Ottawa Senators,19961997,Eastern,Northeast,82,31,36,0,77,226,234,-8
+898,Montréal Canadiens,19961997,Eastern,Northeast,82,31,36,0,77,249,276,-27
+899,Hartford Whalers,19961997,Eastern,Northeast,82,32,39,0,75,226,256,-30
+900,Boston Bruins,19961997,Eastern,Northeast,82,26,47,0,61,234,300,-66
+901,Dallas Stars,19961997,Western,Central,82,48,26,0,104,252,198,54
+902,Detroit Red Wings,19961997,Western,Central,82,38,26,0,94,253,197,56
+903,Phoenix Coyotes,19961997,Western,Central,82,38,37,0,83,240,243,-3
+904,St. Louis Blues,19961997,Western,Central,82,36,35,0,83,236,239,-3
+905,Chicago Blackhawks,19961997,Western,Central,82,34,35,0,81,223,210,13
+906,Toronto Maple Leafs,19961997,Western,Central,82,30,44,0,68,230,273,-43
+907,Colorado Avalanche,19961997,Western,Pacific,82,49,24,0,107,277,205,72
+908,Anaheim Ducks,19961997,Western,Pacific,82,36,33,0,85,245,233,12
+909,Edmonton Oilers,19961997,Western,Pacific,82,36,37,0,81,252,247,5
+910,Vancouver Canucks,19961997,Western,Pacific,82,35,40,0,77,257,273,-16
+911,Calgary Flames,19961997,Western,Pacific,82,32,41,0,73,214,239,-25
+912,Los Angeles Kings,19961997,Western,Pacific,82,28,43,0,67,214,268,-54
+913,San Jose Sharks,19961997,Western,Pacific,82,27,47,0,62,211,278,-67
+914,New Jersey Devils,19971998,Eastern,Atlantic,82,48,23,0,107,225,166,59
+915,Philadelphia Flyers,19971998,Eastern,Atlantic,82,42,29,0,95,242,193,49
+916,Washington Capitals,19971998,Eastern,Atlantic,82,40,30,0,92,219,202,17
+917,New York Islanders,19971998,Eastern,Atlantic,82,30,41,0,71,212,225,-13
+918,New York Rangers,19971998,Eastern,Atlantic,82,25,39,0,68,197,231,-34
+919,Florida Panthers,19971998,Eastern,Atlantic,82,24,43,0,63,203,256,-53
+920,Tampa Bay Lightning,19971998,Eastern,Atlantic,82,17,55,0,44,151,269,-118
+921,Pittsburgh Penguins,19971998,Eastern,Northeast,82,40,24,0,98,228,188,40
+922,Boston Bruins,19971998,Eastern,Northeast,82,39,30,0,91,221,194,27
+923,Buffalo Sabres,19971998,Eastern,Northeast,82,36,29,0,89,211,187,24
+924,Montréal Canadiens,19971998,Eastern,Northeast,82,37,32,0,87,235,208,27
+925,Ottawa Senators,19971998,Eastern,Northeast,82,34,33,0,83,193,200,-7
+926,Carolina Hurricanes,19971998,Eastern,Northeast,82,33,41,0,74,200,219,-19
+927,Dallas Stars,19971998,Western,Central,82,49,22,0,109,242,167,75
+928,Detroit Red Wings,19971998,Western,Central,82,44,23,0,103,250,196,54
+929,St. Louis Blues,19971998,Western,Central,82,45,29,0,98,256,204,52
+930,Phoenix Coyotes,19971998,Western,Central,82,35,35,0,82,224,227,-3
+931,Chicago Blackhawks,19971998,Western,Central,82,30,39,0,73,192,199,-7
+932,Toronto Maple Leafs,19971998,Western,Central,82,30,43,0,69,194,237,-43
+933,Colorado Avalanche,19971998,Western,Pacific,82,39,26,0,95,231,205,26
+934,Los Angeles Kings,19971998,Western,Pacific,82,38,33,0,87,227,225,2
+935,Edmonton Oilers,19971998,Western,Pacific,82,35,37,0,80,215,224,-9
+936,San Jose Sharks,19971998,Western,Pacific,82,34,38,0,78,210,216,-6
+937,Calgary Flames,19971998,Western,Pacific,82,26,41,0,67,217,252,-35
+938,Anaheim Ducks,19971998,Western,Pacific,82,26,43,0,65,205,261,-56
+939,Vancouver Canucks,19971998,Western,Pacific,82,25,43,0,64,224,273,-49
+940,New Jersey Devils,19981999,Eastern,Atlantic,82,47,24,0,105,248,196,52
+941,Philadelphia Flyers,19981999,Eastern,Atlantic,82,37,26,0,93,231,196,35
+942,Pittsburgh Penguins,19981999,Eastern,Atlantic,82,38,30,0,90,242,225,17
+943,New York Rangers,19981999,Eastern,Atlantic,82,33,38,0,77,217,227,-10
+944,New York Islanders,19981999,Eastern,Atlantic,82,24,48,0,58,194,244,-50
+945,Ottawa Senators,19981999,Eastern,Northeast,82,44,23,0,103,239,179,60
+946,Toronto Maple Leafs,19981999,Eastern,Northeast,82,45,30,0,97,268,231,37
+947,Boston Bruins,19981999,Eastern,Northeast,82,39,30,0,91,214,181,33
+948,Buffalo Sabres,19981999,Eastern,Northeast,82,37,28,0,91,207,175,32
+949,Montréal Canadiens,19981999,Eastern,Northeast,82,32,39,0,75,184,209,-25
+950,Carolina Hurricanes,19981999,Eastern,Southeast,82,34,30,0,86,210,202,8
+951,Florida Panthers,19981999,Eastern,Southeast,82,30,34,0,78,210,228,-18
+952,Washington Capitals,19981999,Eastern,Southeast,82,31,45,0,68,200,218,-18
+953,Tampa Bay Lightning,19981999,Eastern,Southeast,82,19,54,0,47,179,292,-113
+954,Detroit Red Wings,19981999,Western,Central,82,43,32,0,93,245,202,43
+955,St. Louis Blues,19981999,Western,Central,82,37,32,0,87,237,209,28
+956,Chicago Blackhawks,19981999,Western,Central,82,29,41,0,70,202,248,-46
+957,Nashville Predators,19981999,Western,Central,82,28,47,0,63,190,261,-71
+958,Colorado Avalanche,19981999,Western,Northwest,82,44,28,0,98,239,205,34
+959,Edmonton Oilers,19981999,Western,Northwest,82,33,37,0,78,230,226,4
+960,Calgary Flames,19981999,Western,Northwest,82,30,40,0,72,211,234,-23
+961,Vancouver Canucks,19981999,Western,Northwest,82,23,47,0,58,192,258,-66
+962,Dallas Stars,19981999,Western,Pacific,82,51,19,0,114,236,168,68
+963,Phoenix Coyotes,19981999,Western,Pacific,82,39,31,0,90,205,197,8
+964,Anaheim Ducks,19981999,Western,Pacific,82,35,34,0,83,215,206,9
+965,San Jose Sharks,19981999,Western,Pacific,82,31,33,0,80,196,191,5
+966,Los Angeles Kings,19981999,Western,Pacific,82,32,45,0,69,189,222,-33
+967,Philadelphia Flyers,19992000,Eastern,Atlantic,82,45,22,3,105,237,179,58
+968,New Jersey Devils,19992000,Eastern,Atlantic,82,45,24,5,103,251,203,48
+969,Pittsburgh Penguins,19992000,Eastern,Atlantic,82,37,31,6,88,241,236,5
+970,New York Rangers,19992000,Eastern,Atlantic,82,29,38,3,73,218,246,-28
+971,New York Islanders,19992000,Eastern,Atlantic,82,24,48,1,58,194,275,-81
+972,Toronto Maple Leafs,19992000,Eastern,Northeast,82,45,27,3,100,246,222,24
+973,Ottawa Senators,19992000,Eastern,Northeast,82,41,28,2,95,244,210,34
+974,Buffalo Sabres,19992000,Eastern,Northeast,82,35,32,4,85,213,204,9
+975,Montréal Canadiens,19992000,Eastern,Northeast,82,35,34,4,83,196,194,2
+976,Boston Bruins,19992000,Eastern,Northeast,82,24,33,6,73,210,248,-38
+977,Washington Capitals,19992000,Eastern,Southeast,82,44,24,2,102,227,194,33
+978,Florida Panthers,19992000,Eastern,Southeast,82,43,27,6,98,244,209,35
+979,Carolina Hurricanes,19992000,Eastern,Southeast,82,37,35,0,84,217,216,1
+980,Tampa Bay Lightning,19992000,Eastern,Southeast,82,19,47,7,54,204,310,-106
+981,Atlanta Thrashers,19992000,Eastern,Southeast,82,14,57,4,39,170,313,-143
+982,St. Louis Blues,19992000,Western,Central,82,51,19,1,114,248,165,83
+983,Detroit Red Wings,19992000,Western,Central,82,48,22,2,108,278,210,68
+984,Chicago Blackhawks,19992000,Western,Central,82,33,37,2,78,242,245,-3
+985,Nashville Predators,19992000,Western,Central,82,28,40,7,70,199,240,-41
+986,Colorado Avalanche,19992000,Western,Northwest,82,42,28,1,96,233,201,32
+987,Edmonton Oilers,19992000,Western,Northwest,82,32,26,8,88,226,212,14
+988,Vancouver Canucks,19992000,Western,Northwest,82,30,28,9,84,227,237,-10
+989,Calgary Flames,19992000,Western,Northwest,82,31,36,5,77,211,256,-45
+990,Dallas Stars,19992000,Western,Pacific,82,43,23,6,102,211,184,27
+991,Los Angeles Kings,19992000,Western,Pacific,82,39,27,4,94,245,228,17
+992,Phoenix Coyotes,19992000,Western,Pacific,82,39,31,4,90,232,228,4
+993,San Jose Sharks,19992000,Western,Pacific,82,35,30,7,87,225,214,11
+994,Anaheim Ducks,19992000,Western,Pacific,82,34,33,3,83,217,227,-10
+995,New Jersey Devils,20002001,Eastern,Atlantic,82,48,19,3,111,295,195,100
+996,Philadelphia Flyers,20002001,Eastern,Atlantic,82,43,25,3,100,240,207,33
+997,Pittsburgh Penguins,20002001,Eastern,Atlantic,82,42,28,3,96,281,256,25
+998,New York Rangers,20002001,Eastern,Atlantic,82,33,43,1,72,250,290,-40
+999,New York Islanders,20002001,Eastern,Atlantic,82,21,51,3,52,185,268,-83
+1000,Ottawa Senators,20002001,Eastern,Northeast,82,48,21,4,109,274,205,69
+1001,Buffalo Sabres,20002001,Eastern,Northeast,82,46,30,1,98,218,184,34
+1002,Toronto Maple Leafs,20002001,Eastern,Northeast,82,37,29,5,90,232,207,25
+1003,Boston Bruins,20002001,Eastern,Northeast,82,36,30,8,88,227,249,-22
+1004,Montréal Canadiens,20002001,Eastern,Northeast,82,28,40,6,70,206,232,-26
+1005,Washington Capitals,20002001,Eastern,Southeast,82,41,27,4,96,233,211,22
+1006,Carolina Hurricanes,20002001,Eastern,Southeast,82,38,32,3,88,212,225,-13
+1007,Florida Panthers,20002001,Eastern,Southeast,82,22,38,9,66,200,246,-46
+1008,Atlanta Thrashers,20002001,Eastern,Southeast,82,23,45,2,60,211,289,-78
+1009,Tampa Bay Lightning,20002001,Eastern,Southeast,82,24,47,5,59,201,280,-79
+1010,Detroit Red Wings,20002001,Western,Central,82,49,20,4,111,253,202,51
+1011,St. Louis Blues,20002001,Western,Central,82,43,22,5,103,249,195,54
+1012,Nashville Predators,20002001,Western,Central,82,34,36,3,80,186,200,-14
+1013,Chicago Blackhawks,20002001,Western,Central,82,29,40,5,71,210,246,-36
+1014,Columbus Blue Jackets,20002001,Western,Central,82,28,39,6,71,190,233,-43
+1015,Colorado Avalanche,20002001,Western,Northwest,82,52,16,4,118,270,192,78
+1016,Edmonton Oilers,20002001,Western,Northwest,82,39,28,3,93,243,222,21
+1017,Vancouver Canucks,20002001,Western,Northwest,82,36,28,7,90,239,238,1
+1018,Calgary Flames,20002001,Western,Northwest,82,27,36,4,73,197,236,-39
+1019,Minnesota Wild,20002001,Western,Northwest,82,25,39,5,68,168,210,-42
+1020,Dallas Stars,20002001,Western,Pacific,82,48,24,2,106,241,187,54
+1021,San Jose Sharks,20002001,Western,Pacific,82,40,27,3,95,217,192,25
+1022,Los Angeles Kings,20002001,Western,Pacific,82,38,28,3,92,252,228,24
+1023,Phoenix Coyotes,20002001,Western,Pacific,82,35,27,3,90,214,212,2
+1024,Anaheim Ducks,20002001,Western,Pacific,82,25,41,5,66,188,245,-57
+1025,Philadelphia Flyers,20012002,Eastern,Atlantic,82,42,27,3,97,234,192,42
+1026,New York Islanders,20012002,Eastern,Atlantic,82,42,28,4,96,239,220,19
+1027,New Jersey Devils,20012002,Eastern,Atlantic,82,41,28,4,95,205,187,18
+1028,New York Rangers,20012002,Eastern,Atlantic,82,36,38,4,80,227,258,-31
+1029,Pittsburgh Penguins,20012002,Eastern,Atlantic,82,28,41,5,69,198,249,-51
+1030,Boston Bruins,20012002,Eastern,Northeast,82,43,24,9,101,236,201,35
+1031,Toronto Maple Leafs,20012002,Eastern,Northeast,82,43,25,4,100,249,207,42
+1032,Ottawa Senators,20012002,Eastern,Northeast,82,39,27,7,94,243,208,35
+1033,Montréal Canadiens,20012002,Eastern,Northeast,82,36,31,3,87,207,209,-2
+1034,Buffalo Sabres,20012002,Eastern,Northeast,82,35,35,1,82,213,200,13
+1035,Carolina Hurricanes,20012002,Eastern,Southeast,82,35,26,5,91,217,217,0
+1036,Washington Capitals,20012002,Eastern,Southeast,82,36,33,2,85,228,240,-12
+1037,Tampa Bay Lightning,20012002,Eastern,Southeast,82,27,40,4,69,178,219,-41
+1038,Florida Panthers,20012002,Eastern,Southeast,82,22,44,6,60,180,250,-70
+1039,Atlanta Thrashers,20012002,Eastern,Southeast,82,19,47,5,54,187,288,-101
+1040,Detroit Red Wings,20012002,Western,Central,82,51,17,4,116,251,187,64
+1041,St. Louis Blues,20012002,Western,Central,82,43,27,4,98,227,188,39
+1042,Chicago Blackhawks,20012002,Western,Central,82,41,27,1,96,216,207,9
+1043,Nashville Predators,20012002,Western,Central,82,28,41,0,69,196,230,-34
+1044,Columbus Blue Jackets,20012002,Western,Central,82,22,47,5,57,164,255,-91
+1045,Colorado Avalanche,20012002,Western,Northwest,82,45,28,1,99,212,169,43
+1046,Vancouver Canucks,20012002,Western,Northwest,82,42,30,3,94,254,211,43
+1047,Edmonton Oilers,20012002,Western,Northwest,82,38,28,4,92,205,182,23
+1048,Calgary Flames,20012002,Western,Northwest,82,32,35,3,79,201,220,-19
+1049,Minnesota Wild,20012002,Western,Northwest,82,26,35,9,73,195,238,-43
+1050,San Jose Sharks,20012002,Western,Pacific,82,44,27,3,99,248,199,49
+1051,Phoenix Coyotes,20012002,Western,Pacific,82,40,27,6,95,228,210,18
+1052,Los Angeles Kings,20012002,Western,Pacific,82,40,27,4,95,214,190,24
+1053,Dallas Stars,20012002,Western,Pacific,82,36,28,5,90,215,213,2
+1054,Anaheim Ducks,20012002,Western,Pacific,82,29,42,3,69,175,198,-23
+1055,New Jersey Devils,20022003,Eastern,Atlantic,82,46,20,6,108,216,166,50
+1056,Philadelphia Flyers,20022003,Eastern,Atlantic,82,45,20,4,107,211,166,45
+1057,New York Islanders,20022003,Eastern,Atlantic,82,35,34,2,83,224,231,-7
+1058,New York Rangers,20022003,Eastern,Atlantic,82,32,36,4,78,210,231,-21
+1059,Pittsburgh Penguins,20022003,Eastern,Atlantic,82,27,44,5,65,189,255,-66
+1060,Ottawa Senators,20022003,Eastern,Northeast,82,52,21,1,113,263,182,81
+1061,Toronto Maple Leafs,20022003,Eastern,Northeast,82,44,28,3,98,236,208,28
+1062,Boston Bruins,20022003,Eastern,Northeast,82,36,31,4,87,245,237,8
+1063,Montréal Canadiens,20022003,Eastern,Northeast,82,30,35,9,77,206,234,-28
+1064,Buffalo Sabres,20022003,Eastern,Northeast,82,27,37,8,72,190,219,-29
+1065,Tampa Bay Lightning,20022003,Eastern,Southeast,82,36,25,5,93,219,210,9
+1066,Washington Capitals,20022003,Eastern,Southeast,82,39,29,6,92,224,220,4
+1067,Atlanta Thrashers,20022003,Eastern,Southeast,82,31,39,5,74,226,284,-58
+1068,Florida Panthers,20022003,Eastern,Southeast,82,24,36,9,70,176,237,-61
+1069,Carolina Hurricanes,20022003,Eastern,Southeast,82,22,43,6,61,171,240,-69
+1070,Detroit Red Wings,20022003,Western,Central,82,48,20,4,110,269,203,66
+1071,St. Louis Blues,20022003,Western,Central,82,41,24,6,99,253,222,31
+1072,Chicago Blackhawks,20022003,Western,Central,82,30,33,6,79,207,226,-19
+1073,Nashville Predators,20022003,Western,Central,82,27,35,7,74,183,206,-23
+1074,Columbus Blue Jackets,20022003,Western,Central,82,29,42,3,69,213,263,-50
+1075,Colorado Avalanche,20022003,Western,Northwest,82,42,19,8,105,251,194,57
+1076,Vancouver Canucks,20022003,Western,Northwest,82,45,23,1,104,264,208,56
+1077,Minnesota Wild,20022003,Western,Northwest,82,42,29,1,95,198,178,20
+1078,Edmonton Oilers,20022003,Western,Northwest,82,36,26,9,92,231,230,1
+1079,Calgary Flames,20022003,Western,Northwest,82,29,36,4,75,186,228,-42
+1080,Dallas Stars,20022003,Western,Pacific,82,46,17,4,111,245,169,76
+1081,Anaheim Ducks,20022003,Western,Pacific,82,40,27,6,95,203,193,10
+1082,Los Angeles Kings,20022003,Western,Pacific,82,33,36,7,79,203,221,-18
+1083,Phoenix Coyotes,20022003,Western,Pacific,82,31,35,5,78,204,230,-26
+1084,San Jose Sharks,20022003,Western,Pacific,82,28,37,8,73,214,239,-25
+1085,Philadelphia Flyers,20032004,Eastern,Atlantic,82,40,21,6,101,229,186,43
+1086,New Jersey Devils,20032004,Eastern,Atlantic,82,43,25,2,100,213,164,49
+1087,New York Islanders,20032004,Eastern,Atlantic,82,38,29,4,91,237,210,27
+1088,New York Rangers,20032004,Eastern,Atlantic,82,27,40,8,69,206,250,-44
+1089,Pittsburgh Penguins,20032004,Eastern,Atlantic,82,23,47,4,58,190,303,-113
+1090,Boston Bruins,20032004,Eastern,Northeast,82,41,19,7,104,209,188,21
+1091,Toronto Maple Leafs,20032004,Eastern,Northeast,82,45,24,3,103,242,204,38
+1092,Ottawa Senators,20032004,Eastern,Northeast,82,43,23,6,102,262,189,73
+1093,Montréal Canadiens,20032004,Eastern,Northeast,82,41,30,4,93,208,192,16
+1094,Buffalo Sabres,20032004,Eastern,Northeast,82,37,34,4,85,220,221,-1
+1095,Tampa Bay Lightning,20032004,Eastern,Southeast,82,46,22,6,106,245,192,53
+1096,Atlanta Thrashers,20032004,Eastern,Southeast,82,33,37,4,78,214,243,-29
+1097,Carolina Hurricanes,20032004,Eastern,Southeast,82,28,34,6,76,172,209,-37
+1098,Florida Panthers,20032004,Eastern,Southeast,82,28,35,4,75,188,221,-33
+1099,Washington Capitals,20032004,Eastern,Southeast,82,23,46,3,59,186,253,-67
+1100,Detroit Red Wings,20032004,Western,Central,82,48,21,2,109,255,189,66
+1101,St. Louis Blues,20032004,Western,Central,82,39,30,2,91,191,198,-7
+1102,Nashville Predators,20032004,Western,Central,82,38,29,4,91,216,217,-1
+1103,Columbus Blue Jackets,20032004,Western,Central,82,25,45,4,62,177,238,-61
+1104,Chicago Blackhawks,20032004,Western,Central,82,20,43,8,59,188,259,-71
+1105,Vancouver Canucks,20032004,Western,Northwest,82,43,24,5,101,235,194,41
+1106,Colorado Avalanche,20032004,Western,Northwest,82,40,22,7,100,236,198,38
+1107,Calgary Flames,20032004,Western,Northwest,82,42,30,3,94,200,176,24
+1108,Edmonton Oilers,20032004,Western,Northwest,82,36,29,5,89,221,208,13
+1109,Minnesota Wild,20032004,Western,Northwest,82,30,29,3,83,188,183,5
+1110,San Jose Sharks,20032004,Western,Pacific,82,43,21,6,104,219,183,36
+1111,Dallas Stars,20032004,Western,Pacific,82,41,26,2,97,194,175,19
+1112,Los Angeles Kings,20032004,Western,Pacific,82,28,29,9,81,205,217,-12
+1113,Anaheim Ducks,20032004,Western,Pacific,82,29,35,8,76,184,213,-29
+1114,Phoenix Coyotes,20032004,Western,Pacific,82,22,36,6,68,188,245,-57
+1115,New Jersey Devils,20052006,Eastern,Atlantic,82,46,27,9,101,242,229,13
+1116,Philadelphia Flyers,20052006,Eastern,Atlantic,82,45,26,11,101,267,259,8
+1117,New York Rangers,20052006,Eastern,Atlantic,82,44,26,12,100,257,215,42
+1118,New York Islanders,20052006,Eastern,Atlantic,82,36,40,6,78,230,278,-48
+1119,Pittsburgh Penguins,20052006,Eastern,Atlantic,82,22,46,14,58,244,316,-72
+1120,Ottawa Senators,20052006,Eastern,Northeast,82,52,21,9,113,314,211,103
+1121,Buffalo Sabres,20052006,Eastern,Northeast,82,52,24,6,110,281,239,42
+1122,Montréal Canadiens,20052006,Eastern,Northeast,82,42,31,9,93,243,247,-4
+1123,Toronto Maple Leafs,20052006,Eastern,Northeast,82,41,33,8,90,257,270,-13
+1124,Boston Bruins,20052006,Eastern,Northeast,82,29,37,16,74,230,266,-36
+1125,Carolina Hurricanes,20052006,Eastern,Southeast,82,52,22,8,112,294,260,34
+1126,Tampa Bay Lightning,20052006,Eastern,Southeast,82,43,33,6,92,252,260,-8
+1127,Atlanta Thrashers,20052006,Eastern,Southeast,82,41,33,8,90,281,275,6
+1128,Florida Panthers,20052006,Eastern,Southeast,82,37,34,11,85,240,257,-17
+1129,Washington Capitals,20052006,Eastern,Southeast,82,29,41,12,70,237,306,-69
+1130,Detroit Red Wings,20052006,Western,Central,82,58,16,8,124,305,209,96
+1131,Nashville Predators,20052006,Western,Central,82,49,25,8,106,259,227,32
+1132,Columbus Blue Jackets,20052006,Western,Central,82,35,43,4,74,223,279,-56
+1133,Chicago Blackhawks,20052006,Western,Central,82,26,43,13,65,211,285,-74
+1134,St. Louis Blues,20052006,Western,Central,82,21,46,15,57,197,292,-95
+1135,Calgary Flames,20052006,Western,Northwest,82,46,25,11,103,218,200,18
+1136,Colorado Avalanche,20052006,Western,Northwest,82,43,30,9,95,283,257,26
+1137,Edmonton Oilers,20052006,Western,Northwest,82,41,28,13,95,256,251,5
+1138,Vancouver Canucks,20052006,Western,Northwest,82,42,32,8,92,256,255,1
+1139,Minnesota Wild,20052006,Western,Northwest,82,38,36,8,84,231,215,16
+1140,Dallas Stars,20052006,Western,Pacific,82,53,23,6,112,265,218,47
+1141,San Jose Sharks,20052006,Western,Pacific,82,44,27,11,99,266,242,24
+1142,Anaheim Ducks,20052006,Western,Pacific,82,43,27,12,98,254,229,25
+1143,Los Angeles Kings,20052006,Western,Pacific,82,42,35,5,89,249,270,-21
+1144,Phoenix Coyotes,20052006,Western,Pacific,82,38,39,5,81,246,271,-25
+1145,New Jersey Devils,20062007,Eastern,Atlantic,82,49,24,9,107,216,201,15
+1146,Pittsburgh Penguins,20062007,Eastern,Atlantic,82,47,24,11,105,277,246,31
+1147,New York Rangers,20062007,Eastern,Atlantic,82,42,30,10,94,242,216,26
+1148,New York Islanders,20062007,Eastern,Atlantic,82,40,30,12,92,248,240,8
+1149,Philadelphia Flyers,20062007,Eastern,Atlantic,82,22,48,12,56,214,303,-89
+1150,Buffalo Sabres,20062007,Eastern,Northeast,82,53,22,7,113,308,242,66
+1151,Ottawa Senators,20062007,Eastern,Northeast,82,48,25,9,105,288,222,66
+1152,Toronto Maple Leafs,20062007,Eastern,Northeast,82,40,31,11,91,258,269,-11
+1153,Montréal Canadiens,20062007,Eastern,Northeast,82,42,34,6,90,245,256,-11
+1154,Boston Bruins,20062007,Eastern,Northeast,82,35,41,6,76,219,289,-70
+1155,Atlanta Thrashers,20062007,Eastern,Southeast,82,43,28,11,97,246,245,1
+1156,Tampa Bay Lightning,20062007,Eastern,Southeast,82,44,33,5,93,253,261,-8
+1157,Carolina Hurricanes,20062007,Eastern,Southeast,82,40,34,8,88,241,253,-12
+1158,Florida Panthers,20062007,Eastern,Southeast,82,35,31,16,86,247,257,-10
+1159,Washington Capitals,20062007,Eastern,Southeast,82,28,40,14,70,235,286,-51
+1160,Detroit Red Wings,20062007,Western,Central,82,50,19,13,113,254,199,55
+1161,Nashville Predators,20062007,Western,Central,82,51,23,8,110,272,212,60
+1162,St. Louis Blues,20062007,Western,Central,82,34,35,13,81,214,254,-40
+1163,Columbus Blue Jackets,20062007,Western,Central,82,33,42,7,73,201,249,-48
+1164,Chicago Blackhawks,20062007,Western,Central,82,31,42,9,71,201,258,-57
+1165,Vancouver Canucks,20062007,Western,Northwest,82,49,26,7,105,222,201,21
+1166,Minnesota Wild,20062007,Western,Northwest,82,48,26,8,104,235,191,44
+1167,Calgary Flames,20062007,Western,Northwest,82,43,29,10,96,258,226,32
+1168,Colorado Avalanche,20062007,Western,Northwest,82,44,31,7,95,272,251,21
+1169,Edmonton Oilers,20062007,Western,Northwest,82,32,43,7,71,195,248,-53
+1170,Anaheim Ducks,20062007,Western,Pacific,82,48,20,14,110,258,208,50
+1171,San Jose Sharks,20062007,Western,Pacific,82,51,26,5,107,258,199,59
+1172,Dallas Stars,20062007,Western,Pacific,82,50,25,7,107,226,197,29
+1173,Los Angeles Kings,20062007,Western,Pacific,82,27,41,14,68,227,283,-56
+1174,Phoenix Coyotes,20062007,Western,Pacific,82,31,46,5,67,216,284,-68
+1175,Pittsburgh Penguins,20072008,Eastern,Atlantic,82,47,27,8,102,247,216,31
+1176,New Jersey Devils,20072008,Eastern,Atlantic,82,46,29,7,99,206,197,9
+1177,New York Rangers,20072008,Eastern,Atlantic,82,42,27,13,97,213,199,14
+1178,Philadelphia Flyers,20072008,Eastern,Atlantic,82,42,29,11,95,248,233,15
+1179,New York Islanders,20072008,Eastern,Atlantic,82,35,38,9,79,194,243,-49
+1180,Montréal Canadiens,20072008,Eastern,Northeast,82,47,25,10,104,262,222,40
+1181,Ottawa Senators,20072008,Eastern,Northeast,82,43,31,8,94,261,247,14
+1182,Boston Bruins,20072008,Eastern,Northeast,82,41,29,12,94,212,222,-10
+1183,Buffalo Sabres,20072008,Eastern,Northeast,82,39,31,12,90,255,242,13
+1184,Toronto Maple Leafs,20072008,Eastern,Northeast,82,36,35,11,83,231,260,-29
+1185,Washington Capitals,20072008,Eastern,Southeast,82,43,31,8,94,242,231,11
+1186,Carolina Hurricanes,20072008,Eastern,Southeast,82,43,33,6,92,252,249,3
+1187,Florida Panthers,20072008,Eastern,Southeast,82,38,35,9,85,216,226,-10
+1188,Atlanta Thrashers,20072008,Eastern,Southeast,82,34,40,8,76,216,272,-56
+1189,Tampa Bay Lightning,20072008,Eastern,Southeast,82,31,42,9,71,223,267,-44
+1190,Detroit Red Wings,20072008,Western,Central,82,54,21,7,115,257,184,73
+1191,Nashville Predators,20072008,Western,Central,82,41,32,9,91,230,229,1
+1192,Chicago Blackhawks,20072008,Western,Central,82,40,34,8,88,239,235,4
+1193,Columbus Blue Jackets,20072008,Western,Central,82,34,36,12,80,193,218,-25
+1194,St. Louis Blues,20072008,Western,Central,82,33,36,13,79,205,237,-32
+1195,Minnesota Wild,20072008,Western,Northwest,82,44,28,10,98,223,218,5
+1196,Colorado Avalanche,20072008,Western,Northwest,82,44,31,7,95,231,219,12
+1197,Calgary Flames,20072008,Western,Northwest,82,42,30,10,94,229,227,2
+1198,Edmonton Oilers,20072008,Western,Northwest,82,41,35,6,88,235,251,-16
+1199,Vancouver Canucks,20072008,Western,Northwest,82,39,33,10,88,213,215,-2
+1200,San Jose Sharks,20072008,Western,Pacific,82,49,23,10,108,222,193,29
+1201,Anaheim Ducks,20072008,Western,Pacific,82,47,27,8,102,205,191,14
+1202,Dallas Stars,20072008,Western,Pacific,82,45,30,7,97,242,207,35
+1203,Phoenix Coyotes,20072008,Western,Pacific,82,38,37,7,83,214,231,-17
+1204,Los Angeles Kings,20072008,Western,Pacific,82,32,43,7,71,231,266,-35
+1205,New Jersey Devils,20082009,Eastern,Atlantic,82,51,27,4,106,244,209,35
+1206,Pittsburgh Penguins,20082009,Eastern,Atlantic,82,45,28,9,99,264,239,25
+1207,Philadelphia Flyers,20082009,Eastern,Atlantic,82,44,27,11,99,264,238,26
+1208,New York Rangers,20082009,Eastern,Atlantic,82,43,30,9,95,210,218,-8
+1209,New York Islanders,20082009,Eastern,Atlantic,82,26,47,9,61,201,279,-78
+1210,Boston Bruins,20082009,Eastern,Northeast,82,53,19,10,116,274,196,78
+1211,Montréal Canadiens,20082009,Eastern,Northeast,82,41,30,11,93,249,247,2
+1212,Buffalo Sabres,20082009,Eastern,Northeast,82,41,32,9,91,250,234,16
+1213,Ottawa Senators,20082009,Eastern,Northeast,82,36,35,11,83,217,237,-20
+1214,Toronto Maple Leafs,20082009,Eastern,Northeast,82,34,35,13,81,250,293,-43
+1215,Washington Capitals,20082009,Eastern,Southeast,82,50,24,8,108,272,245,27
+1216,Carolina Hurricanes,20082009,Eastern,Southeast,82,45,30,7,97,239,226,13
+1217,Florida Panthers,20082009,Eastern,Southeast,82,41,30,11,93,234,231,3
+1218,Atlanta Thrashers,20082009,Eastern,Southeast,82,35,41,6,76,257,280,-23
+1219,Tampa Bay Lightning,20082009,Eastern,Southeast,82,24,40,18,66,210,279,-69
+1220,Detroit Red Wings,20082009,Western,Central,82,51,21,10,112,295,244,51
+1221,Chicago Blackhawks,20082009,Western,Central,82,46,24,12,104,264,216,48
+1222,St. Louis Blues,20082009,Western,Central,82,41,31,10,92,233,233,0
+1223,Columbus Blue Jackets,20082009,Western,Central,82,41,31,10,92,226,230,-4
+1224,Nashville Predators,20082009,Western,Central,82,40,34,8,88,213,233,-20
+1225,Vancouver Canucks,20082009,Western,Northwest,82,45,27,10,100,246,220,26
+1226,Calgary Flames,20082009,Western,Northwest,82,46,30,6,98,254,248,6
+1227,Minnesota Wild,20082009,Western,Northwest,82,40,33,9,89,219,200,19
+1228,Edmonton Oilers,20082009,Western,Northwest,82,38,35,9,85,234,248,-14
+1229,Colorado Avalanche,20082009,Western,Northwest,82,32,45,5,69,199,257,-58
+1230,San Jose Sharks,20082009,Western,Pacific,82,53,18,11,117,257,204,53
+1231,Anaheim Ducks,20082009,Western,Pacific,82,42,33,7,91,245,238,7
+1232,Dallas Stars,20082009,Western,Pacific,82,36,35,11,83,230,257,-27
+1233,Phoenix Coyotes,20082009,Western,Pacific,82,36,39,7,79,208,252,-44
+1234,Los Angeles Kings,20082009,Western,Pacific,82,34,37,11,79,207,234,-27
+1235,New Jersey Devils,20092010,Eastern,Atlantic,82,48,27,7,103,222,191,31
+1236,Pittsburgh Penguins,20092010,Eastern,Atlantic,82,47,28,7,101,257,237,20
+1237,Philadelphia Flyers,20092010,Eastern,Atlantic,82,41,35,6,88,236,225,11
+1238,New York Rangers,20092010,Eastern,Atlantic,82,38,33,11,87,222,218,4
+1239,New York Islanders,20092010,Eastern,Atlantic,82,34,37,11,79,222,264,-42
+1240,Buffalo Sabres,20092010,Eastern,Northeast,82,45,27,10,100,235,207,28
+1241,Ottawa Senators,20092010,Eastern,Northeast,82,44,32,6,94,225,238,-13
+1242,Boston Bruins,20092010,Eastern,Northeast,82,39,30,13,91,206,200,6
+1243,Montréal Canadiens,20092010,Eastern,Northeast,82,39,33,10,88,217,223,-6
+1244,Toronto Maple Leafs,20092010,Eastern,Northeast,82,30,38,14,74,214,267,-53
+1245,Washington Capitals,20092010,Eastern,Southeast,82,54,15,13,121,318,233,85
+1246,Atlanta Thrashers,20092010,Eastern,Southeast,82,35,34,13,83,234,256,-22
+1247,Carolina Hurricanes,20092010,Eastern,Southeast,82,35,37,10,80,230,256,-26
+1248,Tampa Bay Lightning,20092010,Eastern,Southeast,82,34,36,12,80,217,260,-43
+1249,Florida Panthers,20092010,Eastern,Southeast,82,32,37,13,77,208,244,-36
+1250,Chicago Blackhawks,20092010,Western,Central,82,52,22,8,112,271,209,62
+1251,Detroit Red Wings,20092010,Western,Central,82,44,24,14,102,229,216,13
+1252,Nashville Predators,20092010,Western,Central,82,47,29,6,100,225,225,0
+1253,St. Louis Blues,20092010,Western,Central,82,40,32,10,90,225,223,2
+1254,Columbus Blue Jackets,20092010,Western,Central,82,32,35,15,79,216,259,-43
+1255,Vancouver Canucks,20092010,Western,Northwest,82,49,28,5,103,272,222,50
+1256,Colorado Avalanche,20092010,Western,Northwest,82,43,30,9,95,244,233,11
+1257,Calgary Flames,20092010,Western,Northwest,82,40,32,10,90,204,210,-6
+1258,Minnesota Wild,20092010,Western,Northwest,82,38,36,8,84,219,246,-27
+1259,Edmonton Oilers,20092010,Western,Northwest,82,27,47,8,62,214,284,-70
+1260,San Jose Sharks,20092010,Western,Pacific,82,51,20,11,113,264,215,49
+1261,Phoenix Coyotes,20092010,Western,Pacific,82,50,25,7,107,225,202,23
+1262,Los Angeles Kings,20092010,Western,Pacific,82,46,27,9,101,241,219,22
+1263,Anaheim Ducks,20092010,Western,Pacific,82,39,32,11,89,238,251,-13
+1264,Dallas Stars,20092010,Western,Pacific,82,37,31,14,88,237,254,-17
+1265,Philadelphia Flyers,20102011,Eastern,Atlantic,82,47,23,12,106,259,223,36
+1266,Pittsburgh Penguins,20102011,Eastern,Atlantic,82,49,25,8,106,238,199,39
+1267,New York Rangers,20102011,Eastern,Atlantic,82,44,33,5,93,233,198,35
+1268,New Jersey Devils,20102011,Eastern,Atlantic,82,38,39,5,81,174,209,-35
+1269,New York Islanders,20102011,Eastern,Atlantic,82,30,39,13,73,229,264,-35
+1270,Boston Bruins,20102011,Eastern,Northeast,82,46,25,11,103,246,195,51
+1271,Montréal Canadiens,20102011,Eastern,Northeast,82,44,30,8,96,216,209,7
+1272,Buffalo Sabres,20102011,Eastern,Northeast,82,43,29,10,96,245,229,16
+1273,Toronto Maple Leafs,20102011,Eastern,Northeast,82,37,34,11,85,218,251,-33
+1274,Ottawa Senators,20102011,Eastern,Northeast,82,32,40,10,74,192,250,-58
+1275,Washington Capitals,20102011,Eastern,Southeast,82,48,23,11,107,224,197,27
+1276,Tampa Bay Lightning,20102011,Eastern,Southeast,82,46,25,11,103,247,240,7
+1277,Carolina Hurricanes,20102011,Eastern,Southeast,82,40,31,11,91,236,239,-3
+1278,Atlanta Thrashers,20102011,Eastern,Southeast,82,34,36,12,80,223,269,-46
+1279,Florida Panthers,20102011,Eastern,Southeast,82,30,40,12,72,195,229,-34
+1280,Detroit Red Wings,20102011,Western,Central,82,47,25,10,104,261,241,20
+1281,Nashville Predators,20102011,Western,Central,82,44,27,11,99,219,194,25
+1282,Chicago Blackhawks,20102011,Western,Central,82,44,29,9,97,258,225,33
+1283,St. Louis Blues,20102011,Western,Central,82,38,33,11,87,240,234,6
+1284,Columbus Blue Jackets,20102011,Western,Central,82,34,35,13,81,215,258,-43
+1285,Vancouver Canucks,20102011,Western,Northwest,82,54,19,9,117,262,185,77
+1286,Calgary Flames,20102011,Western,Northwest,82,41,29,12,94,250,237,13
+1287,Minnesota Wild,20102011,Western,Northwest,82,39,35,8,86,206,233,-27
+1288,Colorado Avalanche,20102011,Western,Northwest,82,30,44,8,68,227,288,-61
+1289,Edmonton Oilers,20102011,Western,Northwest,82,25,45,12,62,193,269,-76
+1290,San Jose Sharks,20102011,Western,Pacific,82,48,25,9,105,248,213,35
+1291,Anaheim Ducks,20102011,Western,Pacific,82,47,30,5,99,239,235,4
+1292,Phoenix Coyotes,20102011,Western,Pacific,82,43,26,13,99,231,226,5
+1293,Los Angeles Kings,20102011,Western,Pacific,82,46,30,6,98,219,198,21
+1294,Dallas Stars,20102011,Western,Pacific,82,42,29,11,95,227,233,-6
+1295,New York Rangers,20112012,Eastern,Atlantic,82,51,24,7,109,226,187,39
+1296,Pittsburgh Penguins,20112012,Eastern,Atlantic,82,51,25,6,108,282,221,61
+1297,Philadelphia Flyers,20112012,Eastern,Atlantic,82,47,26,9,103,264,232,32
+1298,New Jersey Devils,20112012,Eastern,Atlantic,82,48,28,6,102,228,209,19
+1299,New York Islanders,20112012,Eastern,Atlantic,82,34,37,11,79,203,255,-52
+1300,Boston Bruins,20112012,Eastern,Northeast,82,49,29,4,102,269,202,67
+1301,Ottawa Senators,20112012,Eastern,Northeast,82,41,31,10,92,249,240,9
+1302,Buffalo Sabres,20112012,Eastern,Northeast,82,39,32,11,89,218,230,-12
+1303,Toronto Maple Leafs,20112012,Eastern,Northeast,82,35,37,10,80,231,264,-33
+1304,Montréal Canadiens,20112012,Eastern,Northeast,82,31,35,16,78,212,226,-14
+1305,Florida Panthers,20112012,Eastern,Southeast,82,38,26,18,94,203,227,-24
+1306,Washington Capitals,20112012,Eastern,Southeast,82,42,32,8,92,222,230,-8
+1307,Tampa Bay Lightning,20112012,Eastern,Southeast,82,38,36,8,84,235,281,-46
+1308,Winnipeg Jets,20112012,Eastern,Southeast,82,37,35,10,84,225,246,-21
+1309,Carolina Hurricanes,20112012,Eastern,Southeast,82,33,33,16,82,213,243,-30
+1310,St. Louis Blues,20112012,Western,Central,82,49,22,11,109,210,165,45
+1311,Nashville Predators,20112012,Western,Central,82,48,26,8,104,237,210,27
+1312,Detroit Red Wings,20112012,Western,Central,82,48,28,6,102,248,203,45
+1313,Chicago Blackhawks,20112012,Western,Central,82,45,26,11,101,248,238,10
+1314,Columbus Blue Jackets,20112012,Western,Central,82,29,46,7,65,202,262,-60
+1315,Vancouver Canucks,20112012,Western,Northwest,82,51,22,9,111,249,198,51
+1316,Calgary Flames,20112012,Western,Northwest,82,37,29,16,90,202,226,-24
+1317,Colorado Avalanche,20112012,Western,Northwest,82,41,35,6,88,208,220,-12
+1318,Minnesota Wild,20112012,Western,Northwest,82,35,36,11,81,177,226,-49
+1319,Edmonton Oilers,20112012,Western,Northwest,82,32,40,10,74,212,239,-27
+1320,Phoenix Coyotes,20112012,Western,Pacific,82,42,27,13,97,216,204,12
+1321,San Jose Sharks,20112012,Western,Pacific,82,43,29,10,96,228,210,18
+1322,Los Angeles Kings,20112012,Western,Pacific,82,40,27,15,95,194,179,15
+1323,Dallas Stars,20112012,Western,Pacific,82,42,35,5,89,211,222,-11
+1324,Anaheim Ducks,20112012,Western,Pacific,82,34,36,12,80,204,231,-27
+1325,Pittsburgh Penguins,20122013,Eastern,Atlantic,48,36,12,0,72,165,119,46
+1326,New York Rangers,20122013,Eastern,Atlantic,48,26,18,4,56,130,112,18
+1327,New York Islanders,20122013,Eastern,Atlantic,48,24,17,7,55,139,139,0
+1328,Philadelphia Flyers,20122013,Eastern,Atlantic,48,23,22,3,49,133,141,-8
+1329,New Jersey Devils,20122013,Eastern,Atlantic,48,19,19,10,48,112,129,-17
+1330,Montréal Canadiens,20122013,Eastern,Northeast,48,29,14,5,63,149,126,23
+1331,Boston Bruins,20122013,Eastern,Northeast,48,28,14,6,62,131,109,22
+1332,Toronto Maple Leafs,20122013,Eastern,Northeast,48,26,17,5,57,145,133,12
+1333,Ottawa Senators,20122013,Eastern,Northeast,48,25,17,6,56,116,104,12
+1334,Buffalo Sabres,20122013,Eastern,Northeast,48,21,21,6,48,125,143,-18
+1335,Washington Capitals,20122013,Eastern,Southeast,48,27,18,3,57,149,130,19
+1336,Winnipeg Jets,20122013,Eastern,Southeast,48,24,21,3,51,128,144,-16
+1337,Carolina Hurricanes,20122013,Eastern,Southeast,48,19,25,4,42,128,160,-32
+1338,Tampa Bay Lightning,20122013,Eastern,Southeast,48,18,26,4,40,148,150,-2
+1339,Florida Panthers,20122013,Eastern,Southeast,48,15,27,6,36,112,171,-59
+1340,Chicago Blackhawks,20122013,Western,Central,48,36,7,5,77,155,102,53
+1341,St. Louis Blues,20122013,Western,Central,48,29,17,2,60,129,115,14
+1342,Detroit Red Wings,20122013,Western,Central,48,24,16,8,56,124,115,9
+1343,Columbus Blue Jackets,20122013,Western,Central,48,24,17,7,55,120,119,1
+1344,Nashville Predators,20122013,Western,Central,48,16,23,9,41,111,139,-28
+1345,Vancouver Canucks,20122013,Western,Northwest,48,26,15,7,59,127,121,6
+1346,Minnesota Wild,20122013,Western,Northwest,48,26,19,3,55,122,127,-5
+1347,Edmonton Oilers,20122013,Western,Northwest,48,19,22,7,45,125,134,-9
+1348,Calgary Flames,20122013,Western,Northwest,48,19,25,4,42,128,160,-32
+1349,Colorado Avalanche,20122013,Western,Northwest,48,16,25,7,39,116,152,-36
+1350,Anaheim Ducks,20122013,Western,Pacific,48,30,12,6,66,140,118,22
+1351,Los Angeles Kings,20122013,Western,Pacific,48,27,16,5,59,133,118,15
+1352,San Jose Sharks,20122013,Western,Pacific,48,25,16,7,57,124,116,8
+1353,Phoenix Coyotes,20122013,Western,Pacific,48,21,18,9,51,125,131,-6
+1354,Dallas Stars,20122013,Western,Pacific,48,22,22,4,48,130,142,-12
+1355,Pittsburgh Penguins,20132014,Eastern,Metropolitan,82,51,24,7,109,249,207,42
+1356,New York Rangers,20132014,Eastern,Metropolitan,82,45,31,6,96,218,193,25
+1357,Philadelphia Flyers,20132014,Eastern,Metropolitan,82,42,30,10,94,236,235,1
+1358,Columbus Blue Jackets,20132014,Eastern,Metropolitan,82,43,32,7,93,231,216,15
+1359,Washington Capitals,20132014,Eastern,Metropolitan,82,38,30,14,90,235,240,-5
+1360,New Jersey Devils,20132014,Eastern,Metropolitan,82,35,29,18,88,197,208,-11
+1361,Carolina Hurricanes,20132014,Eastern,Metropolitan,82,36,35,11,83,207,230,-23
+1362,New York Islanders,20132014,Eastern,Metropolitan,82,34,37,11,79,225,267,-42
+1363,Boston Bruins,20132014,Eastern,Atlantic,82,54,19,9,117,261,177,84
+1364,Tampa Bay Lightning,20132014,Eastern,Atlantic,82,46,27,9,101,240,215,25
+1365,Montréal Canadiens,20132014,Eastern,Atlantic,82,46,28,8,100,215,204,11
+1366,Detroit Red Wings,20132014,Eastern,Atlantic,82,39,28,15,93,222,230,-8
+1367,Ottawa Senators,20132014,Eastern,Atlantic,82,37,31,14,88,236,265,-29
+1368,Toronto Maple Leafs,20132014,Eastern,Atlantic,82,38,36,8,84,231,256,-25
+1369,Florida Panthers,20132014,Eastern,Atlantic,82,29,45,8,66,196,268,-72
+1370,Buffalo Sabres,20132014,Eastern,Atlantic,82,21,51,10,52,157,248,-91
+1371,Colorado Avalanche,20132014,Western,Central,82,52,22,8,112,250,220,30
+1372,St. Louis Blues,20132014,Western,Central,82,52,23,7,111,248,191,57
+1373,Chicago Blackhawks,20132014,Western,Central,82,46,21,15,107,267,220,47
+1374,Minnesota Wild,20132014,Western,Central,82,43,27,12,98,207,206,1
+1375,Dallas Stars,20132014,Western,Central,82,40,31,11,91,235,228,7
+1376,Nashville Predators,20132014,Western,Central,82,38,32,12,88,216,242,-26
+1377,Winnipeg Jets,20132014,Western,Central,82,37,35,10,84,227,237,-10
+1378,Anaheim Ducks,20132014,Western,Pacific,82,54,20,8,116,266,209,57
+1379,San Jose Sharks,20132014,Western,Pacific,82,51,22,9,111,249,200,49
+1380,Los Angeles Kings,20132014,Western,Pacific,82,46,28,8,100,206,174,32
+1381,Phoenix Coyotes,20132014,Western,Pacific,82,37,30,15,89,216,231,-15
+1382,Vancouver Canucks,20132014,Western,Pacific,82,36,35,11,83,196,223,-27
+1383,Calgary Flames,20132014,Western,Pacific,82,35,40,7,77,209,241,-32
+1384,Edmonton Oilers,20132014,Western,Pacific,82,29,44,9,67,203,270,-67
+1385,New York Rangers,20142015,Eastern,Metropolitan,82,53,22,7,113,252,192,60
+1386,Washington Capitals,20142015,Eastern,Metropolitan,82,45,26,11,101,242,203,39
+1387,New York Islanders,20142015,Eastern,Metropolitan,82,47,28,7,101,252,230,22
+1388,Pittsburgh Penguins,20142015,Eastern,Metropolitan,82,43,27,12,98,221,210,11
+1389,Columbus Blue Jackets,20142015,Eastern,Metropolitan,82,42,35,5,89,236,250,-14
+1390,Philadelphia Flyers,20142015,Eastern,Metropolitan,82,33,31,18,84,215,234,-19
+1391,New Jersey Devils,20142015,Eastern,Metropolitan,82,32,36,14,78,181,216,-35
+1392,Carolina Hurricanes,20142015,Eastern,Metropolitan,82,30,41,11,71,188,226,-38
+1393,Montréal Canadiens,20142015,Eastern,Atlantic,82,50,22,10,110,221,189,32
+1394,Tampa Bay Lightning,20142015,Eastern,Atlantic,82,50,24,8,108,262,211,51
+1395,Detroit Red Wings,20142015,Eastern,Atlantic,82,43,25,14,100,235,221,14
+1396,Ottawa Senators,20142015,Eastern,Atlantic,82,43,26,13,99,238,215,23
+1397,Boston Bruins,20142015,Eastern,Atlantic,82,41,27,14,96,213,211,2
+1398,Florida Panthers,20142015,Eastern,Atlantic,82,38,29,15,91,206,223,-17
+1399,Toronto Maple Leafs,20142015,Eastern,Atlantic,82,30,44,8,68,211,262,-51
+1400,Buffalo Sabres,20142015,Eastern,Atlantic,82,23,51,8,54,161,274,-113
+1401,St. Louis Blues,20142015,Western,Central,82,51,24,7,109,248,201,47
+1402,Nashville Predators,20142015,Western,Central,82,47,25,10,104,232,208,24
+1403,Chicago Blackhawks,20142015,Western,Central,82,48,28,6,102,229,189,40
+1404,Minnesota Wild,20142015,Western,Central,82,46,28,8,100,231,201,30
+1405,Winnipeg Jets,20142015,Western,Central,82,43,26,13,99,230,210,20
+1406,Dallas Stars,20142015,Western,Central,82,41,31,10,92,261,260,1
+1407,Colorado Avalanche,20142015,Western,Central,82,39,31,12,90,219,227,-8
+1408,Anaheim Ducks,20142015,Western,Pacific,82,51,24,7,109,236,226,10
+1409,Vancouver Canucks,20142015,Western,Pacific,82,48,29,5,101,242,222,20
+1410,Calgary Flames,20142015,Western,Pacific,82,45,30,7,97,241,216,25
+1411,Los Angeles Kings,20142015,Western,Pacific,82,40,27,15,95,220,205,15
+1412,San Jose Sharks,20142015,Western,Pacific,82,40,33,9,89,228,232,-4
+1413,Edmonton Oilers,20142015,Western,Pacific,82,24,44,14,62,198,283,-85
+1414,Arizona Coyotes,20142015,Western,Pacific,82,24,50,8,56,170,272,-102
+1415,Washington Capitals,20152016,Eastern,Metropolitan,82,56,18,8,120,252,193,59
+1416,Pittsburgh Penguins,20152016,Eastern,Metropolitan,82,48,26,8,104,245,203,42
+1417,New York Rangers,20152016,Eastern,Metropolitan,82,46,27,9,101,236,217,19
+1418,New York Islanders,20152016,Eastern,Metropolitan,82,45,27,10,100,232,216,16
+1419,Philadelphia Flyers,20152016,Eastern,Metropolitan,82,41,27,14,96,214,218,-4
+1420,Carolina Hurricanes,20152016,Eastern,Metropolitan,82,35,31,16,86,198,226,-28
+1421,New Jersey Devils,20152016,Eastern,Metropolitan,82,38,36,8,84,184,208,-24
+1422,Columbus Blue Jackets,20152016,Eastern,Metropolitan,82,34,40,8,76,219,252,-33
+1423,Florida Panthers,20152016,Eastern,Atlantic,82,47,26,9,103,239,203,36
+1424,Tampa Bay Lightning,20152016,Eastern,Atlantic,82,46,31,5,97,227,201,26
+1425,Detroit Red Wings,20152016,Eastern,Atlantic,82,41,30,11,93,211,224,-13
+1426,Boston Bruins,20152016,Eastern,Atlantic,82,42,31,9,93,240,230,10
+1427,Ottawa Senators,20152016,Eastern,Atlantic,82,38,35,9,85,236,247,-11
+1428,Montréal Canadiens,20152016,Eastern,Atlantic,82,38,38,6,82,221,236,-15
+1429,Buffalo Sabres,20152016,Eastern,Atlantic,82,35,36,11,81,201,222,-21
+1430,Toronto Maple Leafs,20152016,Eastern,Atlantic,82,29,42,11,69,198,246,-48
+1431,Dallas Stars,20152016,Western,Central,82,50,23,9,109,267,230,37
+1432,St. Louis Blues,20152016,Western,Central,82,49,24,9,107,224,201,23
+1433,Chicago Blackhawks,20152016,Western,Central,82,47,26,9,103,235,209,26
+1434,Nashville Predators,20152016,Western,Central,82,41,27,14,96,228,215,13
+1435,Minnesota Wild,20152016,Western,Central,82,38,33,11,87,216,206,10
+1436,Colorado Avalanche,20152016,Western,Central,82,39,39,4,82,216,240,-24
+1437,Winnipeg Jets,20152016,Western,Central,82,35,39,8,78,215,239,-24
+1438,Anaheim Ducks,20152016,Western,Pacific,82,46,25,11,103,218,192,26
+1439,Los Angeles Kings,20152016,Western,Pacific,82,48,28,6,102,225,195,30
+1440,San Jose Sharks,20152016,Western,Pacific,82,46,30,6,98,241,210,31
+1441,Arizona Coyotes,20152016,Western,Pacific,82,35,39,8,78,209,245,-36
+1442,Calgary Flames,20152016,Western,Pacific,82,35,40,7,77,231,260,-29
+1443,Vancouver Canucks,20152016,Western,Pacific,82,31,38,13,75,191,243,-52
+1444,Edmonton Oilers,20152016,Western,Pacific,82,31,43,8,70,203,245,-42
+1445,Washington Capitals,20162017,Eastern,Metropolitan,82,55,19,8,118,263,182,81
+1446,Pittsburgh Penguins,20162017,Eastern,Metropolitan,82,50,21,11,111,282,234,48
+1447,Columbus Blue Jackets,20162017,Eastern,Metropolitan,82,50,24,8,108,249,195,54
+1448,New York Rangers,20162017,Eastern,Metropolitan,82,48,28,6,102,256,220,36
+1449,New York Islanders,20162017,Eastern,Metropolitan,82,41,29,12,94,241,242,-1
+1450,Philadelphia Flyers,20162017,Eastern,Metropolitan,82,39,33,10,88,219,236,-17
+1451,Carolina Hurricanes,20162017,Eastern,Metropolitan,82,36,31,15,87,215,236,-21
+1452,New Jersey Devils,20162017,Eastern,Metropolitan,82,28,40,14,70,183,244,-61
+1453,Montréal Canadiens,20162017,Eastern,Atlantic,82,47,26,9,103,226,200,26
+1454,Ottawa Senators,20162017,Eastern,Atlantic,82,44,28,10,98,212,214,-2
+1455,Boston Bruins,20162017,Eastern,Atlantic,82,44,31,7,95,234,212,22
+1456,Toronto Maple Leafs,20162017,Eastern,Atlantic,82,40,27,15,95,251,242,9
+1457,Tampa Bay Lightning,20162017,Eastern,Atlantic,82,42,30,10,94,234,227,7
+1458,Florida Panthers,20162017,Eastern,Atlantic,82,35,36,11,81,210,237,-27
+1459,Detroit Red Wings,20162017,Eastern,Atlantic,82,33,36,13,79,207,244,-37
+1460,Buffalo Sabres,20162017,Eastern,Atlantic,82,33,37,12,78,201,237,-36
+1461,Chicago Blackhawks,20162017,Western,Central,82,50,23,9,109,244,213,31
+1462,Minnesota Wild,20162017,Western,Central,82,49,25,8,106,266,208,58
+1463,St. Louis Blues,20162017,Western,Central,82,46,29,7,99,235,218,17
+1464,Nashville Predators,20162017,Western,Central,82,41,29,12,94,240,224,16
+1465,Winnipeg Jets,20162017,Western,Central,82,40,35,7,87,249,256,-7
+1466,Dallas Stars,20162017,Western,Central,82,34,37,11,79,223,262,-39
+1467,Colorado Avalanche,20162017,Western,Central,82,22,56,4,48,166,278,-112
+1468,Anaheim Ducks,20162017,Western,Pacific,82,46,23,13,105,223,200,23
+1469,Edmonton Oilers,20162017,Western,Pacific,82,47,26,9,103,247,212,35
+1470,San Jose Sharks,20162017,Western,Pacific,82,46,29,7,99,221,201,20
+1471,Calgary Flames,20162017,Western,Pacific,82,45,33,4,94,226,221,5
+1472,Los Angeles Kings,20162017,Western,Pacific,82,39,35,8,86,201,205,-4
+1473,Arizona Coyotes,20162017,Western,Pacific,82,30,42,10,70,197,260,-63
+1474,Vancouver Canucks,20162017,Western,Pacific,82,30,43,9,69,182,243,-61
+1475,Washington Capitals,20172018,Eastern,Metropolitan,82,49,26,7,105,259,239,20
+1476,Pittsburgh Penguins,20172018,Eastern,Metropolitan,82,47,29,6,100,272,250,22
+1477,Philadelphia Flyers,20172018,Eastern,Metropolitan,82,42,26,14,98,251,243,8
+1478,Columbus Blue Jackets,20172018,Eastern,Metropolitan,82,45,30,7,97,242,230,12
+1479,New Jersey Devils,20172018,Eastern,Metropolitan,82,44,29,9,97,248,244,4
+1480,Carolina Hurricanes,20172018,Eastern,Metropolitan,82,36,35,11,83,228,256,-28
+1481,New York Islanders,20172018,Eastern,Metropolitan,82,35,37,10,80,264,296,-32
+1482,New York Rangers,20172018,Eastern,Metropolitan,82,34,39,9,77,231,268,-37
+1483,Tampa Bay Lightning,20172018,Eastern,Atlantic,82,54,23,5,113,296,236,60
+1484,Boston Bruins,20172018,Eastern,Atlantic,82,50,20,12,112,270,214,56
+1485,Toronto Maple Leafs,20172018,Eastern,Atlantic,82,49,26,7,105,277,232,45
+1486,Florida Panthers,20172018,Eastern,Atlantic,82,44,30,8,96,248,246,2
+1487,Detroit Red Wings,20172018,Eastern,Atlantic,82,30,39,13,73,217,255,-38
+1488,Montréal Canadiens,20172018,Eastern,Atlantic,82,29,40,13,71,209,264,-55
+1489,Ottawa Senators,20172018,Eastern,Atlantic,82,28,43,11,67,221,291,-70
+1490,Buffalo Sabres,20172018,Eastern,Atlantic,82,25,45,12,62,199,280,-81
+1491,Nashville Predators,20172018,Western,Central,82,53,18,11,117,267,211,56
+1492,Winnipeg Jets,20172018,Western,Central,82,52,20,10,114,277,218,59
+1493,Minnesota Wild,20172018,Western,Central,82,45,26,11,101,253,232,21
+1494,Colorado Avalanche,20172018,Western,Central,82,43,30,9,95,257,237,20
+1495,St. Louis Blues,20172018,Western,Central,82,44,32,6,94,226,222,4
+1496,Dallas Stars,20172018,Western,Central,82,42,32,8,92,235,225,10
+1497,Chicago Blackhawks,20172018,Western,Central,82,33,39,10,76,229,256,-27
+1498,Vegas Golden Knights,20172018,Western,Pacific,82,51,24,7,109,272,228,44
+1499,Anaheim Ducks,20172018,Western,Pacific,82,44,25,13,101,235,216,19
+1500,San Jose Sharks,20172018,Western,Pacific,82,45,27,10,100,252,229,23
+1501,Los Angeles Kings,20172018,Western,Pacific,82,45,29,8,98,239,203,36
+1502,Calgary Flames,20172018,Western,Pacific,82,37,35,10,84,218,248,-30
+1503,Edmonton Oilers,20172018,Western,Pacific,82,36,40,6,78,234,263,-29
+1504,Vancouver Canucks,20172018,Western,Pacific,82,31,40,11,73,218,264,-46
+1505,Arizona Coyotes,20172018,Western,Pacific,82,29,41,12,70,208,256,-48
+1506,Washington Capitals,20182019,Eastern,Metropolitan,82,48,26,8,104,278,249,29
+1507,New York Islanders,20182019,Eastern,Metropolitan,82,48,27,7,103,228,196,32
+1508,Pittsburgh Penguins,20182019,Eastern,Metropolitan,82,44,26,12,100,273,241,32
+1509,Carolina Hurricanes,20182019,Eastern,Metropolitan,82,46,29,7,99,245,223,22
+1510,Columbus Blue Jackets,20182019,Eastern,Metropolitan,82,47,31,4,98,258,232,26
+1511,Philadelphia Flyers,20182019,Eastern,Metropolitan,82,37,37,8,82,244,281,-37
+1512,New York Rangers,20182019,Eastern,Metropolitan,82,32,36,14,78,227,272,-45
+1513,New Jersey Devils,20182019,Eastern,Metropolitan,82,31,41,10,72,222,275,-53
+1514,Tampa Bay Lightning,20182019,Eastern,Atlantic,82,62,16,4,128,325,222,103
+1515,Boston Bruins,20182019,Eastern,Atlantic,82,49,24,9,107,259,215,44
+1516,Toronto Maple Leafs,20182019,Eastern,Atlantic,82,46,28,8,100,286,251,35
+1517,Montréal Canadiens,20182019,Eastern,Atlantic,82,44,30,8,96,249,236,13
+1518,Florida Panthers,20182019,Eastern,Atlantic,82,36,32,14,86,267,280,-13
+1519,Buffalo Sabres,20182019,Eastern,Atlantic,82,33,39,10,76,226,271,-45
+1520,Detroit Red Wings,20182019,Eastern,Atlantic,82,32,40,10,74,227,277,-50
+1521,Ottawa Senators,20182019,Eastern,Atlantic,82,29,47,6,64,242,302,-60
+1522,Nashville Predators,20182019,Western,Central,82,47,29,6,100,240,214,26
+1523,Winnipeg Jets,20182019,Western,Central,82,47,30,5,99,272,244,28
+1524,St. Louis Blues,20182019,Western,Central,82,45,28,9,99,247,223,24
+1525,Dallas Stars,20182019,Western,Central,82,43,32,7,93,210,202,8
+1526,Colorado Avalanche,20182019,Western,Central,82,38,30,14,90,260,246,14
+1527,Chicago Blackhawks,20182019,Western,Central,82,36,34,12,84,270,292,-22
+1528,Minnesota Wild,20182019,Western,Central,82,37,36,9,83,211,237,-26
+1529,Calgary Flames,20182019,Western,Pacific,82,50,25,7,107,289,227,62
+1530,San Jose Sharks,20182019,Western,Pacific,82,46,27,9,101,289,261,28
+1531,Vegas Golden Knights,20182019,Western,Pacific,82,43,32,7,93,249,230,19
+1532,Arizona Coyotes,20182019,Western,Pacific,82,39,35,8,86,213,223,-10
+1533,Vancouver Canucks,20182019,Western,Pacific,82,35,36,11,81,225,254,-29
+1534,Anaheim Ducks,20182019,Western,Pacific,82,35,37,10,80,199,251,-52
+1535,Edmonton Oilers,20182019,Western,Pacific,82,35,38,9,79,232,274,-42
+1536,Los Angeles Kings,20182019,Western,Pacific,82,31,42,9,71,202,263,-61
+1537,Washington Capitals,20192020,Eastern,Metropolitan,69,41,20,8,90,240,215,25
+1538,Philadelphia Flyers,20192020,Eastern,Metropolitan,69,41,21,7,89,232,196,36
+1539,Pittsburgh Penguins,20192020,Eastern,Metropolitan,69,40,23,6,86,224,196,28
+1540,Carolina Hurricanes,20192020,Eastern,Metropolitan,68,38,25,5,81,222,193,29
+1541,New York Islanders,20192020,Eastern,Metropolitan,68,35,23,10,80,192,193,-1
+1542,Columbus Blue Jackets,20192020,Eastern,Metropolitan,70,33,22,15,81,180,187,-7
+1543,New York Rangers,20192020,Eastern,Metropolitan,70,37,28,5,79,234,222,12
+1544,New Jersey Devils,20192020,Eastern,Metropolitan,69,28,29,12,68,189,230,-41
+1545,Boston Bruins,20192020,Eastern,Atlantic,70,44,14,12,100,227,174,53
+1546,Tampa Bay Lightning,20192020,Eastern,Atlantic,70,43,21,6,92,245,195,50
+1547,Toronto Maple Leafs,20192020,Eastern,Atlantic,70,36,25,9,81,238,227,11
+1548,Florida Panthers,20192020,Eastern,Atlantic,69,35,26,8,78,231,228,3
+1549,Montréal Canadiens,20192020,Eastern,Atlantic,71,31,31,9,71,212,221,-9
+1550,Buffalo Sabres,20192020,Eastern,Atlantic,69,30,31,8,68,195,217,-22
+1551,Ottawa Senators,20192020,Eastern,Atlantic,71,25,34,12,62,191,243,-52
+1552,Detroit Red Wings,20192020,Eastern,Atlantic,71,17,49,5,39,145,267,-122
+1553,St. Louis Blues,20192020,Western,Central,71,42,19,10,94,225,193,32
+1554,Colorado Avalanche,20192020,Western,Central,70,42,20,8,92,237,191,46
+1555,Dallas Stars,20192020,Western,Central,69,37,24,8,82,180,177,3
+1556,Nashville Predators,20192020,Western,Central,69,35,26,8,78,215,217,-2
+1557,Winnipeg Jets,20192020,Western,Central,71,37,28,6,80,216,203,13
+1558,Minnesota Wild,20192020,Western,Central,69,35,27,7,77,220,220,0
+1559,Chicago Blackhawks,20192020,Western,Central,70,32,30,8,72,212,218,-6
+1560,Vegas Golden Knights,20192020,Western,Pacific,71,39,24,8,86,227,211,16
+1561,Edmonton Oilers,20192020,Western,Pacific,71,37,25,9,83,225,217,8
+1562,Vancouver Canucks,20192020,Western,Pacific,69,36,27,6,78,228,217,11
+1563,Calgary Flames,20192020,Western,Pacific,70,36,27,7,79,210,215,-5
+1564,Arizona Coyotes,20192020,Western,Pacific,70,33,29,8,74,195,187,8
+1565,Anaheim Ducks,20192020,Western,Pacific,71,29,33,9,67,187,226,-39
+1566,Los Angeles Kings,20192020,Western,Pacific,70,29,35,6,64,178,212,-34
+1567,San Jose Sharks,20192020,Western,Pacific,70,29,36,5,63,182,226,-44
+1568,Colorado Avalanche,20202021,,Honda West,56,39,13,4,82,197,133,64
+1569,Vegas Golden Knights,20202021,,Honda West,56,40,14,2,82,191,124,67
+1570,Minnesota Wild,20202021,,Honda West,56,35,16,5,75,181,160,21
+1571,St. Louis Blues,20202021,,Honda West,56,27,20,9,63,169,170,-1
+1572,Arizona Coyotes,20202021,,Honda West,56,24,26,6,54,153,176,-23
+1573,Los Angeles Kings,20202021,,Honda West,56,21,28,7,49,143,170,-27
+1574,San Jose Sharks,20202021,,Honda West,56,21,28,7,49,151,199,-48
+1575,Anaheim Ducks,20202021,,Honda West,56,17,30,9,43,126,179,-53
+1576,Carolina Hurricanes,20202021,,Discover Central,56,36,12,8,80,179,136,43
+1577,Florida Panthers,20202021,,Discover Central,56,37,14,5,79,189,153,36
+1578,Tampa Bay Lightning,20202021,,Discover Central,56,36,17,3,75,181,147,34
+1579,Nashville Predators,20202021,,Discover Central,56,31,23,2,64,156,154,2
+1580,Dallas Stars,20202021,,Discover Central,56,23,19,14,60,158,154,4
+1581,Chicago Blackhawks,20202021,,Discover Central,56,24,25,7,55,161,186,-25
+1582,Detroit Red Wings,20202021,,Discover Central,56,19,27,10,48,127,171,-44
+1583,Columbus Blue Jackets,20202021,,Discover Central,56,18,26,12,48,137,187,-50
+1584,Pittsburgh Penguins,20202021,,MassMutual East,56,37,16,3,77,196,156,40
+1585,Washington Capitals,20202021,,MassMutual East,56,36,15,5,77,191,163,28
+1586,Boston Bruins,20202021,,MassMutual East,56,33,16,7,73,168,136,32
+1587,New York Islanders,20202021,,MassMutual East,56,32,17,7,71,156,128,28
+1588,New York Rangers,20202021,,MassMutual East,56,27,23,6,60,177,157,20
+1589,Philadelphia Flyers,20202021,,MassMutual East,56,25,23,8,58,163,201,-38
+1590,New Jersey Devils,20202021,,MassMutual East,56,19,30,7,45,145,194,-49
+1591,Buffalo Sabres,20202021,,MassMutual East,56,15,34,7,37,138,199,-61
+1592,Toronto Maple Leafs,20202021,,Scotia North,56,35,14,7,77,187,148,39
+1593,Edmonton Oilers,20202021,,Scotia North,56,35,19,2,72,183,154,29
+1594,Winnipeg Jets,20202021,,Scotia North,56,30,23,3,63,170,154,16
+1595,Montréal Canadiens,20202021,,Scotia North,56,24,21,11,59,159,168,-9
+1596,Calgary Flames,20202021,,Scotia North,56,26,27,3,55,156,161,-5
+1597,Ottawa Senators,20202021,,Scotia North,56,23,28,5,51,157,190,-33
+1598,Vancouver Canucks,20202021,,Scotia North,56,23,29,4,50,151,188,-37
