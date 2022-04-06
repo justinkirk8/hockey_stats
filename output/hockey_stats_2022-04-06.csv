@@ -1,0 +1,33 @@
+Index_ID,Team,Conference,Division,GP,W,L,QTL,Pts,GF,GA,Diff,L10,Strk
+0,Carolina Hurricanes,Eastern,Metropolitan,70,45,17,8,98,232,168,64,'4-3-3,L2
+1,New York Rangers,Eastern,Metropolitan,71,45,20,6,96,217,186,64,'7-2-1,W1
+2,Pittsburgh Penguins,Eastern,Metropolitan,71,41,20,10,92,237,194,64,'5-4-1,L2
+3,Washington Capitals,Eastern,Metropolitan,69,37,22,10,84,226,202,64,'6-4-0,L2
+4,New York Islanders,Eastern,Metropolitan,69,32,28,9,73,192,189,64,'6-4-0,L1
+5,Columbus Blue Jackets,Eastern,Metropolitan,71,33,32,6,72,229,265,64,'2-5-3,W1
+6,Philadelphia Flyers,Eastern,Metropolitan,70,22,37,11,55,181,250,64,'3-7-0,L1
+7,New Jersey Devils,Eastern,Metropolitan,70,24,40,6,54,214,261,64,'2-7-1,L2
+8,Florida Panthers,Eastern,Atlantic,70,49,15,6,104,294,210,64,'8-2-0,W5
+9,Toronto Maple Leafs,Eastern,Atlantic,70,45,19,6,96,270,216,64,'7-2-1,OT1
+10,Tampa Bay Lightning,Eastern,Atlantic,69,43,19,7,93,230,198,64,'5-4-1,L1
+11,Boston Bruins,Eastern,Atlantic,70,44,21,5,93,223,190,64,'7-3-0,L1
+12,Detroit Red Wings,Eastern,Atlantic,70,27,34,9,63,202,271,64,'3-5-2,W1
+13,Buffalo Sabres,Eastern,Atlantic,71,26,34,11,63,197,250,64,'6-1-3,W1
+14,Ottawa Senators,Eastern,Atlantic,69,26,37,6,58,187,224,64,'5-4-1,W3
+15,Montréal Canadiens,Eastern,Atlantic,70,19,40,11,49,181,268,64,'3-4-3,L1
+16,Colorado Avalanche,Western,Central,70,50,14,6,106,268,193,64,'8-1-1,W4
+17,Minnesota Wild,Western,Central,69,43,21,5,91,254,215,64,'8-1-1,L1
+18,St. Louis Blues,Western,Central,69,39,20,10,88,250,202,64,'5-3-2,W2
+19,Nashville Predators,Western,Central,69,40,25,4,84,230,201,64,'6-4-0,W1
+20,Dallas Stars,Western,Central,69,40,26,3,83,204,206,64,'7-3-0,W1
+21,Winnipeg Jets,Western,Central,70,33,27,10,76,217,219,64,'6-4-0,L2
+22,Chicago Blackhawks,Western,Central,70,24,35,11,59,188,247,64,'2-5-3,OT1
+23,Arizona Coyotes,Western,Central,70,22,43,5,49,177,254,64,'2-7-1,L1
+24,Calgary Flames,Western,Pacific,69,41,19,9,91,241,173,64,'5-3-2,W1
+25,Edmonton Oilers,Western,Pacific,71,41,25,5,87,251,226,64,'7-2-1,W5
+26,Los Angeles Kings,Western,Pacific,72,38,24,10,86,207,205,64,'5-3-2,L1
+27,Vegas Golden Knights,Western,Pacific,71,39,28,4,82,227,210,64,'7-3-0,W5
+28,Vancouver Canucks,Western,Pacific,70,32,28,10,74,198,202,64,'3-4-3,OT1
+29,Anaheim Ducks,Western,Pacific,71,28,31,12,68,199,230,64,'1-7-2,L1
+30,San Jose Sharks,Western,Pacific,69,29,31,9,67,182,220,64,'3-6-1,OT1
+31,Seattle Kraken,Western,Pacific,69,22,41,6,50,182,242,64,'5-4-1,W1
